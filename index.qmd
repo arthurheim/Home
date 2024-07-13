@@ -2,6 +2,10 @@
 title: "Welcome to my page"
 ---
 
+# 
+
+![](images/PSE_a.heim-12.jpg){fig-align="right" width="427"}
+
 # About me
 
 I am an applied economist working on the design and evaluation of public policies to reduce inequalities and poverty in France. I combine field experiments and microeconometrics to study the effects of active labour market policies for single mothers and how administrative support and information can improve access to early childcare services. I also use market design and implement fair assignment mechanisms for daycare seats in French municipalities.
