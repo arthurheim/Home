@@ -1,6 +1,7 @@
 ---
 title: "Welcome to my page"
 ---
+
 ```{r echo=FALSE}
 library(pacman)
 pacman::p_load(
@@ -16,7 +17,8 @@ pacman::p_load(
 
 colorsLanguages <- palette_lgbtq("bisexual")
 ```
-![](images/PSE_a.heim-12.jpg){width="427"}
+
+![](images/PSE_a.heim-12.jpg){fig-align="center" width="252"}
 
 I am an applied economist working on the design and evaluation of public policies to reduce inequalities and poverty in France. I combine field experiments and microeconometrics to study the effects of active labour market policies for single mothers and how administrative support and information can improve access to early childcare services. I also use market design and implement fair assignment mechanisms for daycare seats in French municipalities.
 
