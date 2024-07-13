@@ -16,7 +16,8 @@ website:
         text: Labour economics
       - href: Teachings/Teachings.qmd
         text: Teachings
-      - about.qmd
+      - href: Publications/Publications.qmd
+        text: Publications
 
 format:
   html:
