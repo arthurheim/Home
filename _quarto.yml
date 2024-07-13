@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Arthur Heim"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About me
+      - href: PhD/PhDPage.qmd
+        text: PhD dissertation
+      - href: ISAJE/IsajeMain.qmd
+        text: Early childhood
+      - href: Labour/Reliance.qmd
+        text: Labour economics
+      - href: Teachings/Teachings.qmd
+        text: Teachings
+      - about.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+
