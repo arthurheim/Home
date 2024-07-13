@@ -2,7 +2,7 @@
 title: "PhD: Analysis and Economic Policy"
 ---
 
-![](images/PSE_EHESS.png){width="338"}
+![](images/PSE_EHESS.png){fig-align="center" width="338"}
 
  
 
@@ -27,6 +27,8 @@ Thesis supervisor:
 -   M. Marc GURGAND, CNRS, PSE-Ecole d’économie de Paris
 
 ------------------------------------------------------------------------
+
+# What is this dissertation about ?
 
 [Rage against the Matching](https://www.dropbox.com/scl/fi/7r9c1lglfu04naqnbad4c/CombeHeim2024.pdf?rlkey=44rkwhus5nwj9kjq0gn0l4w9b&dl=0 "Rage against the Matching: Fairness and inequalities in a market design experiment in France") (with Julien Combe)
 

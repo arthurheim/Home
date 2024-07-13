@@ -10,6 +10,12 @@ website:
         text: About me
       - href: PhD/PhDPage.qmd
         text: PhD dissertation
+      - href: ISAJE/IsajeMain.qmd
+        text: Early childhood
+      - href: Labour/Reliance.qmd
+        text: Labour economics
+      - href: PhD/Teachings.qmd
+        text: Teachings
       - about.qmd
 
 format:
