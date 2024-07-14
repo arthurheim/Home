@@ -1,36 +1,35 @@
 ---
 title: "CV and contact informations"
-format:
-  html:
-    embed-resources: true
-    css: styles2.css
+
 ---
 
-::: {.container}
+<!-- ::: {.container} -->
 
-::: {.sidebar}
-## Contact Information
+<!-- ::: {.sidebar} -->
+<!-- ## Contact Information -->
 
-## Contact Information
+<!-- ## Contact Information -->
 
-- **Name:** Arthur Heim
-- **Email:** arthur.heim@cnaf.fr
-- **Phone:** +1 (123) 456-7890
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+<!-- - **Name:** Arthur Heim -->
+<!-- - **Email:** arthur.heim@cnaf.fr -->
+<!-- - **Phone:** +1 (123) 456-7890 -->
+<!-- - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) -->
+<!-- - **GitHub:** [Your GitHub Profile](https://github.com/yourusername) -->
 
-:::
+<!-- ::: -->
 
-::: {.main-content}
+<!-- ::: {.main-content} -->
 
-### Resume
+<!-- ### Resume -->
+
+[Download \fa](https://raw.githubusercontent.com/arthurheim/Data_DrivenResume/main/ArthurHeim/AHeimPhD2024En/AHeimPhD2024En.pdf)
 
 ```{=html}
 <iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/arthurheim/Data_DrivenResume/main/ArthurHeim/AHeimPhD2024En/AHeimPhD2024En.pdf&embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
 ```
 
 
-[Download My Resume](https://github.com/arthurheim/Data_DrivenResume/blob/main/ArthurHeim/AHeimPhD2024En/AHeimPhD2024En.pdf){.pdf}
+
 
 ### Main fields of research
 
@@ -42,6 +41,6 @@ format:
 
 -   Market design
 
-:::
+<!-- ::: -->
 
-:::
+<!-- ::: -->

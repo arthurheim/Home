@@ -1,13 +1,19 @@
 project:
   type: website
-  output-dir: docs
+  #output-dir: docs
 
 website:
   title: "Arthur Heim"
+  twitter-card: true 
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
-        text: About me
+        text: Home
+        icon: fa-home
+      - href: Career.qmd
+        text: CV and contact informations
+        icon: fa-home  
       - href: PhD/PhDPage.qmd
         text: PhD dissertation
       - href: ISAJE/IsajeMain.qmd
