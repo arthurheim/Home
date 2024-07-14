@@ -31,13 +31,13 @@ title: "CV and contact informations"
 
 
 
-### Main fields of research
+<!-- ### Main fields of research -->
 
--   Public economics
+<!-- -   Public economics -->
 
--   Labour economics
+<!-- -   Labour economics -->
 
--   Economics of education
+<!-- -   Economics of education -->
 
 -   Market design
 

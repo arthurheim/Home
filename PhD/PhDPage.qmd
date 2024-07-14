@@ -26,6 +26,20 @@ Thesis supervisor:
 
 -   M. Marc GURGAND, CNRS, PSE-Ecole d’économie de Paris
 
+<details>
+
+<summary>View PDF</summary>
+
+::: raw
+<iframe class="pdf-viewer" src="https://docs.google.com/viewer?url=https://theses.fr/api/v1/document/2024EHES0027?raw=1&amp;embedded=true">
+
+</iframe>
+:::
+
+<a href=https://theses.fr/api/v1/document/2024EHES0027" target="_blank">Open PDF in new tab</a>
+
+</details>
+
 ------------------------------------------------------------------------
 
 # What is this dissertation about ?
@@ -34,13 +48,9 @@ Thesis supervisor:
 
 We use market design to define assignment mechanisms for the daycare market. We conduct a field experiment using them in France and analyse *who gets what and why.*
 
- 
-
 [Welfare to What ?](https://www.dropbox.com/scl/fi/8jmyo6vvo4sk8o2ru09tw/Heim2024.pdf?rlkey=3cq7y8o84npws5cmdm2pgfsbx&dl=0 "Welfare to what ? Experimental evaluation of an activation programme for single mothers in poverty in France")
 
 I evaluate a randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. I find no effect on labour market participation and poverty after the end of the programme.
-
- 
 
 [Tax burden on the poor](https://www.dropbox.com/scl/fi/xdhov425ez5n1jcxl053r/GalitzineHeim2024.pdf?rlkey=pdun971icjt4biq7ikwrm2ji1&dl=0 "Tax burden on the poor: Single mothers’ optimisation behaviours following an experimental activation programme in France") (with Alexandra galitzine)
 
