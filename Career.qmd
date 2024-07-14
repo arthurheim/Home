@@ -39,7 +39,7 @@ title: "CV and contact informations"
 
 <!-- -   Economics of education -->
 
--   Market design
+<!-- -   Market design -->
 
 <!-- ::: -->
 
