@@ -8,6 +8,34 @@ title: "Ongoing research"
 
 ###### With Julien Combe
 
+# The ISAJE Project
+
+## Overview
+
+The ISAJE project (Investissement Social dans l'Accueil du Jeune Enfant - Social Investment in Early Childhood) started in 2019. Its primary objective is to produce high-quality evidence on the causal effects of daycare access for parents, children, and society.
+
+## Methodology
+
+In collaboration with Julien Combe, Professor of Economics at École Polytechnique, we developed assignment mechanisms based on recent market design literature. These mechanisms offer:
+
+-   Sound theoretical properties
+-   Tractable random variations in assignment probabilities
+
+## Implementation
+
+From 2020 to 2024, we applied these mechanisms to assign daycare seats in:
+
+-   Up to 9 large urban centers in France
+-   Between 2 to 4 assignment rounds per location
+
+## Project Evolution
+
+The ISAJE project has expanded into a comprehensive program with three main focus areas:
+
+1.  [**Market Design**:]{.underline} Theory and applications
+2.  [**Public Policy Design**:]{.underline} Development and scaling of tools for fair and transparent automatic daycare assignment processes
+3.  [**Public Policy Evaluation**:]{.underline} Measuring the effects of daycare access on parent and child outcomes, and evaluating the consequences of automated assignment procedures
+
 ```{=html}
 <iframe class="pdf-viewer" src="/Publications/pdfs/RATM_Fr0624.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
 ```
