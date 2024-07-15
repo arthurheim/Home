@@ -53,6 +53,34 @@
     "href": "ISAJE/IsajeMain.html",
     "title": "Ongoing research",
     "section": "",
-    "text": "This webiste is currently being built and is regularly updated\n\nThe ISAJE Project\n\nWith Julien Combe\n\n\n\n\nPolicies to foster access to formal childcare\n\nWith Laudine Carbuccia, Carlo Baronne & Coralie Chevalier\nAccess to early childcare for low socioeconomic status (SES) families has the potential to mitigate socioeconomic inequalities. Yet, there is an SES-based gap in early childcare enrolment. While low-SES families would benefit the most from attending early childcare, they access early childcare the least. We study cognitive and behavioural barriers behind this access gap assessing the effectiveness of informational interventions and personalised administrative support in enhancing early childcare application and access for low-SES families through a multi-arm experiment. Results reveal that the information-only treatment had minimal impact. Combining information and personalised administrative support significantly bridges the SES-gap in early childcare applications for those who receive support. However, despite large impacts on application rates, we find limited impact on access rates for low-SES families. Our study provides key insights for policymakers aiming to promote equitable access to high-quality early childcare.\n\n\nDraft available SOON\n\n\n\nActive labour market policies and poverty\nFor now, enjoy these slides in French"
+    "text": "This webiste is currently being built and is regularly updated"
+  },
+  {
+    "objectID": "ISAJE/IsajeMain.html#overview",
+    "href": "ISAJE/IsajeMain.html#overview",
+    "title": "Ongoing research",
+    "section": "Overview",
+    "text": "Overview\nThe ISAJE project (Investissement Social dans l’Accueil du Jeune Enfant - Social Investment in Early Childhood) started in 2019. Its primary objective is to produce high-quality evidence on the causal effects of daycare access for parents, children, and society."
+  },
+  {
+    "objectID": "ISAJE/IsajeMain.html#methodology",
+    "href": "ISAJE/IsajeMain.html#methodology",
+    "title": "Ongoing research",
+    "section": "Methodology",
+    "text": "Methodology\nIn collaboration with Julien Combe, Professor of Economics at École Polytechnique, we developed assignment mechanisms based on recent market design literature. These mechanisms offer:\n\nSound theoretical properties\nTractable random variations in assignment probabilities"
+  },
+  {
+    "objectID": "ISAJE/IsajeMain.html#implementation",
+    "href": "ISAJE/IsajeMain.html#implementation",
+    "title": "Ongoing research",
+    "section": "Implementation",
+    "text": "Implementation\nFrom 2020 to 2024, we applied these mechanisms to assign daycare seats in:\n\nUp to 9 large urban centers in France\nBetween 2 to 4 assignment rounds per location"
+  },
+  {
+    "objectID": "ISAJE/IsajeMain.html#project-evolution",
+    "href": "ISAJE/IsajeMain.html#project-evolution",
+    "title": "Ongoing research",
+    "section": "Project Evolution",
+    "text": "Project Evolution\nThe ISAJE project has expanded into a comprehensive program with three main focus areas:\n\nMarket Design: Theory and applications\nPublic Policy Design: Development and scaling of tools for fair and transparent automatic daycare assignment processes\nPublic Policy Evaluation: Measuring the effects of daycare access on parent and child outcomes, and evaluating the consequences of automated assignment procedures"
   }
 ]
