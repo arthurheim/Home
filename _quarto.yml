@@ -13,20 +13,25 @@ website:
     left:
       - href: index.qmd
         text: Home
-        icon: fa-home
+        icon: house-heart
       - href: Career.qmd
         text: CV and contact informations
-        icon: fa-home  
+        icon: person-lines-fill  
       - href: PhD/PhDPage.qmd
+        icon: mortarboard-fill
         text: PhD dissertation
-      - href: ISAJE/IsajeMain.qmd
-        text: Ongoing research
+      - text: Ongoing research
+        icon: bar-chart-steps
+        href: ISAJE/IsajeMain.qmd
+        
       # - href: Labour/Reliance.qmd
       #   text: Labour economics
       - href: Teachings/Teachings.qmd
         text: Teachings
+        icon: clipboard2-data-fill
       - href: Publications/Publications.qmd
         text: Publications
+        icon: journal-bookmark-fill
     tools:
       - icon: mailbox-flag
         href: mailto:heimarthur@gmail.com
