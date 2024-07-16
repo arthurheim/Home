@@ -37,16 +37,19 @@ The ISAJE project has expanded into a comprehensive program with three main focu
 ```{=html}
 <iframe class="pdf-viewer" src="/Publications/pdfs/RATM_Fr0624.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
 ```
-
 # Policies to foster access to formal childcare
 
-###### With Laudine Carbuccia, Carlo Baronne & Coralie Chevalier
+###### [With Laudine Carbuccia](https://www.sciencespo.fr/liepp/fr/users/laudinecarbuccia.html), [Carlo Barone](https://www.sciencespo.fr/osc/fr/node/1608.html) & [Coralie Chevalier](https://sites.google.com/site/coraliechevallier/)
 
 Access to early childcare for low socioeconomic status (SES) families has the potential to mitigate socioeconomic inequalities. Yet, there is an SES-based gap in early childcare enrolment. While low-SES families would benefit the most from attending early childcare, they access early childcare the least. We study cognitive and behavioural barriers behind this access gap assessing the effectiveness of informational interventions and personalised administrative support in enhancing early childcare application and access for low-SES families through a multi-arm experiment. Results reveal that the information-only treatment had minimal impact. Combining information and personalised administrative support significantly bridges the SES-gap in early childcare applications for those who receive support. However, despite large impacts on application rates, we find limited impact on access rates for low-SES families. Our study provides key insights for policymakers aiming to promote equitable access to high-quality early childcare.
 
 #### Draft available SOON
 
 # Active labour market policies and poverty
+
+### The *Reliance* experiment
+
+**DETAILS COMMING SOON**
 
 For now, enjoy these slides in French
 
