@@ -2,7 +2,7 @@ project:
   type: website
   #output-dir: docs
 
-margin-footer: | 
+body-footer: | 
   "This website uses Quarto and its building components are available on https://github.com/arthurheim/Personal-Website"
 
 website:
@@ -28,7 +28,7 @@ website:
       - href: Publications/Publications.qmd
         text: Publications
     tools:
-      - icon: <i class="fas fa-envelope"></i> 
+      - icon: mailbox-flag
         href: mailto:heimarthur@gmail.com
       - icon: twitter
         href: https://x.com/HeimArthur
