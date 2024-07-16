@@ -2,7 +2,7 @@
 title: "Teachings"
 ---
 
-# Evaluating public policies 
+# Evaluating public policies
 
 These slides were used in spring 2023
 
@@ -11,37 +11,31 @@ These slides were used in spring 2023
 ```{=html}
 <iframe class="pdf-viewer" src="/Publications/pdfs/Lecture1_INTRO.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
 ```
-
 ## Randomised controlled trials and conditional independence
 
 ```{=html}
 <iframe class="pdf-viewer" src="/Publications/pdfs/Lecture2_CIA_RCT.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
 ```
-
 ## More on RCTs
 
 ```{=html}
 <iframe class="pdf-viewer" src="/Publications/pdfs/Lecture_3_AdvancedRCT.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
 ```
-
 ## Introduction to difference-in-differences
 
 ```{=html}
 <iframe class="pdf-viewer" src="/Publications/pdfs/Lecture_4_INTRODID.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
 ```
-
 ## Introduction to synthetic control with replications
 
 ```{=html}
 <iframe class="pdf-viewer" src="/Publications/pdfs/TA_4_Synth.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
 ```
-
 ## Introduction to instrumental variable with replications
 
 ```{=html}
 <iframe class="pdf-viewer" src="/Publications/pdfs/HEIM_IV.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
 ```
-
 ## Introduction to regression discontinuity design with replications
 
 ```{=html}
