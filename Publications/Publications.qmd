@@ -1,3 +1,51 @@
 ---
 title: "Publications"
+format:
+  html:
+    code-fold: true
 ---
+
+```{r setup, include=FALSE}
+#| echo: false
+#| warning: false
+#| message: false
+
+library(RefManageR)
+library(httr)
+
+# Fetch the BibTeX file from GitHub
+bib_url <- "https://raw.githubusercontent.com/arthurheim/Data_DrivenResume/main/Data/publi_heim.bib"
+response <- GET(bib_url)
+bib_content <- content(response, "text")
+
+# Write the content to a temporary file
+temp_file <- tempfile(fileext = ".bib")
+writeLines(bib_content, temp_file)
+
+# Read the temporary BibTeX file
+bib <- ReadBib(temp_file, check = FALSE)
+
+# Function to filter and print references based on key conditions
+print_refs <- function(bib, condition) {
+  filtered <- bib[function(x) eval(parse(text = condition), envir = list(key = x$key))]
+  PrintBibliography(filtered, .opts = list(check.entries = FALSE, sorting = "ydnt"))
+}
+```
+
+
+## Working Papers
+
+
+--------------------------------------------------------------------------------------------
+
+# Older publications
+
+## Book
+
+::: {#refs-books}
+:::
+
+## Pre-doctoral Research and Policy Briefs
+
+::: {#refs-predoc}
+:::
