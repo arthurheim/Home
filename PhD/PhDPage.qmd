@@ -31,7 +31,9 @@ Thesis supervisor:
 <summary>View PDF</summary>
 
 ::: raw
-<iframe class="pdf-viewer" src="https://docs.google.com/viewer?url=https://theses.fr/api/v1/document/2024EHES0027?raw=1&amp;embedded=true">
+`<iframe class="pdf-viewer" src="/Publications/pdfs/`{=html}PhD_Dissertation_AHeimRoot.pdf`"`{=html}
+
+`style="width:100%; height:800px;" frameborder="0">`{=html}
 
 </iframe>
 :::
