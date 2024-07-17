@@ -14,34 +14,6 @@
     "text": "This webiste is currently being built and is regularly updated\nFor now, enjoy these slides in French"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Bienvenus sur ma page",
-    "section": "",
-    "text": "Site en construction\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "PhD/PhDPage.html",
-    "href": "PhD/PhDPage.html",
-    "title": "PhD: Analysis and Economic Policy",
-    "section": "",
-    "text": "On April 22, 2024 at 5 PM (Paris time), I defended my thesis:\nSocial Investment and the Changing Face of Poverty: Essays on the Design and Evaluation of Social Investment Policies in France.\nJury:\n\nMme Anne BORING, Erasmus University Rotterdam\nM. Rafael LALIVE, Université de Lausanne\nMme Karen MACOURS, INRAE, PSE-Ecole d’économie de Paris\nMme Camille TERRIER, Queen Mary University of London\n\n \nThesis supervisor:\n\nM. Marc GURGAND, CNRS, PSE-Ecole d’économie de Paris\n\n\n\nView PDF\n\n\n\n&lt;p&gt;style=\"width:100%; height:800px;\" frameborder=\"0\"&gt;&lt;/p&gt;\n\n\nOpen PDF in new tab\n\n\n\nWhat is this dissertation about ?\nRage against the Matching (with Julien Combe)\nWe use market design to define assignment mechanisms for the daycare market. We conduct a field experiment using them in France and analyse who gets what and why.\nWelfare to What ?\nI evaluate a randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. I find no effect on labour market participation and poverty after the end of the programme.\nTax burden on the poor (with Alexandra galitzine)\nWe challenge the idea that the French tax-benefit system “make work pay” for single parents and analyse reactions following a randomised intensive welfare-to-work programme."
-  },
-  {
-    "objectID": "Publications/Publications.html#book",
-    "href": "Publications/Publications.html#book",
-    "title": "Publications",
-    "section": "Book",
-    "text": "Book"
-  },
-  {
-    "objectID": "Publications/Publications.html#pre-doctoral-research-and-policy-briefs",
-    "href": "Publications/Publications.html#pre-doctoral-research-and-policy-briefs",
-    "title": "Publications",
-    "section": "Pre-doctoral Research and Policy Briefs",
-    "text": "Pre-doctoral Research and Policy Briefs"
-  },
-  {
     "objectID": "index.html#who",
     "href": "index.html#who",
     "title": "Welcome to my page",
@@ -70,11 +42,53 @@
     "text": "Why ?\n”Many of us chose economics because, ultimately, we thought science could be leveraged to make a positive change in the world. There are many different paths to get there. Scientists design general frames, engineers turn them into relevant machinery, and plumbers finally make them work in a complicated, messy policy environment. […] A feature unique to economics is that scientists, engineers, and plumbers all talk to each other (and in fact are often talking to themselves — the same economist wearing different hats)” Duflo (2017)\n\n\nDuflo, Esther. 2017. “The Economist as Plumber.” American Economic Review 107 (5): 1–26. https://doi.org/10.1257/aer.p20171153.\n\n\n\nThis webiste is currently being built and is regularly updated."
   },
   {
-    "objectID": "Career.html",
-    "href": "Career.html",
+    "objectID": "PhD/PhDPage.html",
+    "href": "PhD/PhDPage.html",
+    "title": "PhD: Analysis and Economic Policy",
+    "section": "",
+    "text": "On April 22, 2024 at 5 PM (Paris time), I defended my thesis:\nSocial Investment and the Changing Face of Poverty: Essays on the Design and Evaluation of Social Investment Policies in France.\nJury:\n\nMme Anne BORING, Erasmus University Rotterdam\nM. Rafael LALIVE, Université de Lausanne\nMme Karen MACOURS, INRAE, PSE-Ecole d’économie de Paris\nMme Camille TERRIER, Queen Mary University of London\n\n \nThesis supervisor:\n\nM. Marc GURGAND, CNRS, PSE-Ecole d’économie de Paris\n\n\n\nView PDF\n\n\n\n&lt;p&gt;style=\"width:100%; height:800px;\" frameborder=\"0\"&gt;&lt;/p&gt;\n\n\nOpen PDF in new tab"
+  },
+  {
+    "objectID": "Publications/Publications.html",
+    "href": "Publications/Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Rage against the Matching (with Julien Combe)\n\nWe use market design to define assignment mechanisms for the daycare market. We conduct a field experiment using them in France and analyse who gets what and why.\n\nWelfare to What ?\n\nI evaluate a randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. I find no effect on labour market participation and poverty after the end of the programme.\n\nTax burden on the poor (with Alexandra galitzine)\n\nWe challenge the idea that the French tax-benefit system “make work pay” for single parents and analyse reactions following a randomised intensive welfare-to-work programme."
+  },
+  {
+    "objectID": "Publications/Publications.html#working-papers",
+    "href": "Publications/Publications.html#working-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "Rage against the Matching (with Julien Combe)\n\nWe use market design to define assignment mechanisms for the daycare market. We conduct a field experiment using them in France and analyse who gets what and why.\n\nWelfare to What ?\n\nI evaluate a randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. I find no effect on labour market participation and poverty after the end of the programme.\n\nTax burden on the poor (with Alexandra galitzine)\n\nWe challenge the idea that the French tax-benefit system “make work pay” for single parents and analyse reactions following a randomised intensive welfare-to-work programme."
+  },
+  {
+    "objectID": "Publications/Publications.html#book",
+    "href": "Publications/Publications.html#book",
+    "title": "Publications",
+    "section": "Book",
+    "text": "Book\n\n2015\n\nFaut-il encore redoubler ? (With André Tricot and Claire Steinmetz)\n\nThis book builds on the Conference of Consensus organised by the National council for the Evaluation of the French schooling system (Cnesco) from 2013 to 2014. It summarised the state of research at that time and the recommendations of the Jury."
+  },
+  {
+    "objectID": "Publications/Publications.html#pre-doctoral-research-and-policy-briefs",
+    "href": "Publications/Publications.html#pre-doctoral-research-and-policy-briefs",
+    "title": "Publications",
+    "section": "Pre-doctoral Research and Policy Briefs",
+    "text": "Pre-doctoral Research and Policy Briefs"
+  },
+  {
+    "objectID": "CVContacts.html",
+    "href": "CVContacts.html",
     "title": "CV and contact informations",
     "section": "",
     "text": "Download"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Bienvenus sur ma page",
+    "section": "",
+    "text": "Site en construction\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "ISAJE/IsajeMain.html",
