@@ -14,7 +14,7 @@ website:
       - href: index.qmd
         text: Home
         icon: house-heart
-      - href: Career.qmd
+      - href: CVContacts.qmd
         text: CV and contact informations
         icon: person-lines-fill  
       - href: PhD/PhDPage.qmd
