@@ -1,5 +1,6 @@
 ---
 title: "PhD: Analysis and Economic Policy"
+lightbox: true
 ---
 
 ![](images/PSE_EHESS.png){fig-align="center" width="338"}

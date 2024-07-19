@@ -1,5 +1,6 @@
 ---
 title: "Welcome to my page"
+lightbox: true
 format: 
   html:
     css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css
@@ -19,16 +20,21 @@ pacman::p_load(
   tibble,
   gglgbtq,
   RefManageR,
+  jsonlite,
+  purrr,
   httr)
 
 colorsLanguages <- palette_lgbtq("bisexual")
+
+
+
 ```
 
 ![](images/PSE_a.heim-12.jpg){fig-align="center" width="252"}
 
 <!-- <i class="fas fa-envelope"></i> [heimarthur\@gmail.com](mailto:heimarthur@gmail.com) -->
 
-## Who ? 
+## Who ?
 
 I am an applied economist working on the design and evaluation of public policies to reduce inequalities and poverty in France. I did my PhD in Economics at Paris School of Economics (EHESS) from 2019 to 2024 at the National family allowance fund (Cnaf).
 
@@ -42,8 +48,7 @@ I am currently working as project manager in the Research Evaluation and Statist
 
 ## Why ?
 
-”*Many of us chose economics because, ultimately, we thought science could be leveraged to make a positive change in the world. There are many different paths to get there. Scientists design general frames, engineers turn them into relevant machinery, and plumbers finally make them work in a complicated, messy policy
-environment. \[...\] A feature unique to economics is that scientists, engineers, and plumbers all talk to each other (and in fact are often talking to themselves — the same economist wearing different hats)”* @duflo2017
+”*Many of us chose economics because, ultimately, we thought science could be leveraged to make a positive change in the world. There are many different paths to get there. Scientists design general frames, engineers turn them into relevant machinery, and plumbers finally make them work in a complicated, messy policy environment. \[...\] A feature unique to economics is that scientists, engineers, and plumbers all talk to each other (and in fact are often talking to themselves — the same economist wearing different hats)”* @duflo2017
 
 ::: {#refs}
 :::
