@@ -55,4 +55,4 @@ I am currently working as project manager in the Research Evaluation and Statist
 
 <!-- quarto publish gh-pages -->
 
-**This webiste is currently being built and is regularly updated**.
+**This website is currently being built and is regularly updated**.
