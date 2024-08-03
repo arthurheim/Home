@@ -1,0 +1,51 @@
+---
+title: "Music videos and stuff"
+lightbox: true
+---
+
+# Sax 
+
+## Live music with Magoyond
+
+
+### Trianon, November 2023        
+::: {#fig-Trianon}
+
+{{< video https://youtu.be/uGRJPsjy_4U?si=TPcTPA3Z4UmICNzp >}}
+
+The video "Magoyond au Trianon, filmé par le public"
+
+:::
+
+In @fig-Trianon we perform *Vegas Zombie* from the album **Kryptshow** released in 2019. 
+This video was recorded in November 2024 at Le Trianon Paris and uses records from the audience.
+
+### Arsenic live session (2020)        
+::: {#fig-Arsenic}
+
+{{< video https://www.youtube.com/watch?v=68737y5xtW0&list=PLxEzkGfquBoMo13x-5HWDTDFLaF3JQOEP&pp=iAQB >}}
+
+The video "Magoyond Arsenic live session"
+
+:::
+
+In @fig-Arsenic we recorded live a pseudo accoustic session with Magoyond and other guests.
+The setlist:
+
+- Le pudding à l'arsenic
+- Hector Zam
+- Kraken Palace
+- Le Magasin des suicides
+
+
+
+## Other guest-project
+
+
+# Guitar and other instruments
+
+
+
+## Covid covers against boredom
+
+## Kera : progressive death metal

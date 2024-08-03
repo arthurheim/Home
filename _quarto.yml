@@ -32,6 +32,9 @@ website:
       - href: Publications/Publications.qmd
         text: Publications
         icon: journal-bookmark-fill
+      - href: Publications/Music.qmd
+        text: Music
+        icon: music-note-beamed  
     tools:
       - icon: mailbox-flag
         href: mailto:heimarthur@gmail.com
