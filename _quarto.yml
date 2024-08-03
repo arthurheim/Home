@@ -15,7 +15,7 @@ website:
         text: Home
         icon: house-heart
       - href: CVContacts.qmd
-        text: CV and contact informations
+        text: CV and contact
         icon: person-lines-fill  
       - href: PhD/PhDPage.qmd
         icon: mortarboard-fill
