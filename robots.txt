@@ -1,1 +1,1 @@
-Sitemap: https://arthurheim.github.io/Personal-Website/sitemap.xml
+Sitemap: https://arthurheim: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@github.com/arthurheim/Home.git/sitemap.xml
