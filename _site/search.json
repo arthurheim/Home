@@ -235,14 +235,14 @@
     "href": "Publications/Publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Rage against the Matching (with Julien Combe)\n\nWe use market design to define assignment mechanisms for the daycare market. We conduct a field experiment using them in France and analyse who gets what and why.\n\nWelfare to What ?\n\nI evaluate a randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. I find no effect on labour market participation and poverty after the end of the programme.\n\nTax burden on the poor (with Alexandra galitzine)\n\nWe challenge the idea that the French tax-benefit system “make work pay” for single parents and analyse reactions following a randomised intensive welfare-to-work programme.\n\nInvestigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial (With Laudine Carbuccia, Carlo Barone and Coralie Chevalier)\n\nWe recruited 1850 pregnant women in maternity wards in Paris and suburbs and randomly offered administrative support to access formal childcare and information, information only or a placebo information treatment."
+    "text": "Rage against the Matching (with Julien Combe)\n\nWe use market design to define assignment mechanisms for the daycare market. We conduct a field experiment using them in France and analyse who gets what and why.\n\nWelfare to What ?\n\nI evaluate a randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. I find no effect on labour market participation and poverty after the end of the programme.\n\nTax burden on the poor (with Alexandra galitzine)\n\nWe challenge the idea that the French tax-benefit system “make work pay” for single parents and analyse reactions following a randomised intensive welfare-to-work programme.\n\nInvestigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial (With Laudine Carbuccia, Carlo Barone and Coralie Chevalier)\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD We recruited 1850 pregnant women in maternity wards in Paris and suburbs and randomly offered administrative support to access formal childcare and information, information only or a placebo information treatment.\n======= &gt;&gt;&gt;&gt;&gt;&gt;&gt; 3ea063898dd7cbf14e73b67ec04bd1ed5b996b06 ————————————————————————"
   },
   {
     "objectID": "Publications/Publications.html#working-papers",
     "href": "Publications/Publications.html#working-papers",
     "title": "Publications",
     "section": "",
-    "text": "Rage against the Matching (with Julien Combe)\n\nWe use market design to define assignment mechanisms for the daycare market. We conduct a field experiment using them in France and analyse who gets what and why.\n\nWelfare to What ?\n\nI evaluate a randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. I find no effect on labour market participation and poverty after the end of the programme.\n\nTax burden on the poor (with Alexandra galitzine)\n\nWe challenge the idea that the French tax-benefit system “make work pay” for single parents and analyse reactions following a randomised intensive welfare-to-work programme.\n\nInvestigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial (With Laudine Carbuccia, Carlo Barone and Coralie Chevalier)\n\nWe recruited 1850 pregnant women in maternity wards in Paris and suburbs and randomly offered administrative support to access formal childcare and information, information only or a placebo information treatment."
+    "text": "Rage against the Matching (with Julien Combe)\n\nWe use market design to define assignment mechanisms for the daycare market. We conduct a field experiment using them in France and analyse who gets what and why.\n\nWelfare to What ?\n\nI evaluate a randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. I find no effect on labour market participation and poverty after the end of the programme.\n\nTax burden on the poor (with Alexandra galitzine)\n\nWe challenge the idea that the French tax-benefit system “make work pay” for single parents and analyse reactions following a randomised intensive welfare-to-work programme.\n\nInvestigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial (With Laudine Carbuccia, Carlo Barone and Coralie Chevalier)\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD We recruited 1850 pregnant women in maternity wards in Paris and suburbs and randomly offered administrative support to access formal childcare and information, information only or a placebo information treatment.\n======= &gt;&gt;&gt;&gt;&gt;&gt;&gt; 3ea063898dd7cbf14e73b67ec04bd1ed5b996b06 ————————————————————————"
   },
   {
     "objectID": "Publications/Publications.html#book",
@@ -306,5 +306,173 @@
     "title": "Ongoing research",
     "section": "Project Evolution",
     "text": "Project Evolution\nThe ISAJE project has expanded into a comprehensive program with three main focus areas:\n\nMarket Design: Theory and applications\nPublic Policy Design: Development and scaling of tools for fair and transparent automatic daycare assignment processes\nPublic Policy Evaluation: Measuring the effects of daycare access on parent and child outcomes, and evaluating the consequences of automated assignment procedures"
+  },
+  {
+    "objectID": "home/ISAJE/IsajeMain.html",
+    "href": "home/ISAJE/IsajeMain.html",
+    "title": "Ongoing research",
+    "section": "",
+    "text": "This webiste is currently being built and is regularly updated"
+  },
+  {
+    "objectID": "home/ISAJE/IsajeMain.html#overview",
+    "href": "home/ISAJE/IsajeMain.html#overview",
+    "title": "Ongoing research",
+    "section": "Overview",
+    "text": "Overview\nThe ISAJE project (Investissement Social dans l’Accueil du Jeune Enfant - Social Investment in Early Childhood) started in 2019. Its primary objective is to produce high-quality evidence on the causal effects of daycare access for parents, children, and society."
+  },
+  {
+    "objectID": "home/ISAJE/IsajeMain.html#methodology",
+    "href": "home/ISAJE/IsajeMain.html#methodology",
+    "title": "Ongoing research",
+    "section": "Methodology",
+    "text": "Methodology\nIn collaboration with Julien Combe, Professor of Economics at École Polytechnique, we developed assignment mechanisms based on recent market design literature. These mechanisms offer:\n\nSound theoretical properties\nTractable random variations in assignment probabilities"
+  },
+  {
+    "objectID": "home/ISAJE/IsajeMain.html#implementation",
+    "href": "home/ISAJE/IsajeMain.html#implementation",
+    "title": "Ongoing research",
+    "section": "Implementation",
+    "text": "Implementation\nFrom 2020 to 2024, we applied these mechanisms to assign daycare seats in:\n\nUp to 9 large urban centers in France\nBetween 2 to 4 assignment rounds per location"
+  },
+  {
+    "objectID": "home/ISAJE/IsajeMain.html#project-evolution",
+    "href": "home/ISAJE/IsajeMain.html#project-evolution",
+    "title": "Ongoing research",
+    "section": "Project Evolution",
+    "text": "Project Evolution\nThe ISAJE project has expanded into a comprehensive program with three main focus areas:\n\nMarket Design: Theory and applications\nPublic Policy Design: Development and scaling of tools for fair and transparent automatic daycare assignment processes\nPublic Policy Evaluation: Measuring the effects of daycare access on parent and child outcomes, and evaluating the consequences of automated assignment procedures"
+  },
+  {
+    "objectID": "home/about.html",
+    "href": "home/about.html",
+    "title": "Bienvenus sur ma page",
+    "section": "",
+    "text": "Site en construction\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "home/CVContacts.html",
+    "href": "home/CVContacts.html",
+    "title": "CV and contact",
+    "section": "",
+    "text": "Download"
+  },
+  {
+    "objectID": "home/Publications/Publications.html",
+    "href": "home/Publications/Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Rage against the Matching (with Julien Combe)\n\nWe use market design to define assignment mechanisms for the daycare market. We conduct a field experiment using them in France and analyse who gets what and why.\n\nWelfare to What ?\n\nI evaluate a randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. I find no effect on labour market participation and poverty after the end of the programme.\n\nTax burden on the poor (with Alexandra galitzine)\n\nWe challenge the idea that the French tax-benefit system “make work pay” for single parents and analyse reactions following a randomised intensive welfare-to-work programme.\n\nInvestigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial (With Laudine Carbuccia, Carlo Barone and Coralie Chevalier)"
+  },
+  {
+    "objectID": "home/Publications/Publications.html#working-papers",
+    "href": "home/Publications/Publications.html#working-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "Rage against the Matching (with Julien Combe)\n\nWe use market design to define assignment mechanisms for the daycare market. We conduct a field experiment using them in France and analyse who gets what and why.\n\nWelfare to What ?\n\nI evaluate a randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. I find no effect on labour market participation and poverty after the end of the programme.\n\nTax burden on the poor (with Alexandra galitzine)\n\nWe challenge the idea that the French tax-benefit system “make work pay” for single parents and analyse reactions following a randomised intensive welfare-to-work programme.\n\nInvestigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial (With Laudine Carbuccia, Carlo Barone and Coralie Chevalier)"
+  },
+  {
+    "objectID": "home/Publications/Publications.html#book",
+    "href": "home/Publications/Publications.html#book",
+    "title": "Publications",
+    "section": "Book",
+    "text": "Book\n\n2015\n\nFaut-il encore redoubler ? (With André Tricot and Claire Steinmetz)\n\nThis book builds on the Conference of Consensus organised by the National council for the Evaluation of the French schooling system (Cnesco) from 2013 to 2014. It summarised the state of research at that time and the recommendations of the Jury."
+  },
+  {
+    "objectID": "home/Publications/Publications.html#pre-doctoral-research-and-policy-briefs",
+    "href": "home/Publications/Publications.html#pre-doctoral-research-and-policy-briefs",
+    "title": "Publications",
+    "section": "Pre-doctoral Research and Policy Briefs",
+    "text": "Pre-doctoral Research and Policy Briefs\nEmpty for now, see my CV\nThis website is currently being built and is regularly updated."
+  },
+  {
+    "objectID": "home/Publications/Music.html",
+    "href": "home/Publications/Music.html",
+    "title": "Music",
+    "section": "",
+    "text": "Figure 1: The opening of Hysteresis (Kera, 2017)\nMusic has been taking a huge place in my life for as long as I can recall. I started reading sheet-music at the same age I was learning words and started to play the Alto sax at age 6. I paused playing sax at age 13-something, stole a guitar from my dad and learned.\nIn my adult life, I’ve been playing guitar, lapsteel, bass and sax in a bunch of bands. In particular, I wrote recorded and co-produced the album Hysteresis from Kera, a progressive death metal band active from 2015 to 2020 (Listen to the opening in Figure 1).\nMy music is mostly Rock and Metal although I enjoy and play many different styles.\nBelow, you can watch and listen to some of my favourite’s."
+  },
+  {
+    "objectID": "home/Publications/Music.html#live-music-with-magoyond",
+    "href": "home/Publications/Music.html#live-music-with-magoyond",
+    "title": "Music",
+    "section": "Live music with Magoyond",
+    "text": "Live music with Magoyond\n\nThe Band in a nutshell\nMAGOYOND’s french alternative metal is worthy of a black cabaret, theatrical, macabre and disproportionate. Over the years, MAGOYOND has developed a unique and avant-garde musical style, mixing modern rock and metal sounds with the power of the cinematic symphony orchestra.\n\n\nSax and Zombies\nI first played with Magoyond in 2016 on a single song for one live. In 2019, the band recorded the Kryptshow album where I recorded the sax parts of two songs :\n\nVegas Zombie\nLe magasin des suicides\n\nSince I was doing my PhD at that time, I only went on tour a few time. In 2020, In the mids of the pandemic, we recorded a studio live.\n\n\nTrianon, November 2023\n\n\n\n\n\n\nFigure 2: The video “Magoyond au Trianon, filmé par le public”\n\n\n\nIn Figure 2 we perform Vegas Zombie from the album Kryptshow released in 2019. This video was recorded in November 2024 at Le Trianon Paris and uses records from the audience.\n\n\nArsenic live session (2020)\n\n\n\n\n\n\nFigure 3: The video “Magoyond Arsenic live session”\n\n\n\nIn Figure 3 we recorded live a pseudo accoustic session with Magoyond and other guests. The setlist:\n\nLe pudding à l’arsenic\nHector Zam\nKraken Palace (Acoustic guitar)\nLe Magasin des suicides"
+  },
+  {
+    "objectID": "home/Publications/Music.html#other-guest-project",
+    "href": "home/Publications/Music.html#other-guest-project",
+    "title": "Music",
+    "section": "Other guest-project",
+    "text": "Other guest-project\nZoiZo is a French song group with influences of jazz, rock, and soul, and includes some reinterpreted covers. In this cover of Where did you sleep last night ?, I play bass, sax and guitar.\n\n\n\n\n\n\nFigure 4: The video ” A Vol d’Oiseau - where did you sleep last night - leadbelly cover ”"
+  },
+  {
+    "objectID": "home/Publications/Music.html#shredding-and-glitters",
+    "href": "home/Publications/Music.html#shredding-and-glitters",
+    "title": "Music",
+    "section": "Shredding and glitters",
+    "text": "Shredding and glitters\n\n\n\n\n\n\nFigure 5: The video “The Extremist (Joe Satriani Cover)”\n\n\n\nJust after I sent my PhD dissertation to the jury, I decided to record a one shot at The Extremist, by Joe Satriani (1992). This album was one of my favourite when I was 16 and quite a challenge to play now that I am twice as old."
+  },
+  {
+    "objectID": "home/Publications/Music.html#covid-covers-against-boredom",
+    "href": "home/Publications/Music.html#covid-covers-against-boredom",
+    "title": "Music",
+    "section": "Covid covers against boredom",
+    "text": "Covid covers against boredom\nDuring the first lock-down of the Covid-19 pandemic, I started recorded one or two song every weekend with close friends and relatives. There is a total of 13 songs one can find on Youtube. Here are some of the bests.\n\n\n\n\n\n\nFigure 6: The video “Impossible (Cover La Rue Ketanou) during the pandemic”\n\n\n\n\n\n\n\n\n\nFigure 7: The video “Routine (Steven Wilson Cover) during the pandemic”\n\n\n\n\n\n\n\n\n\nFigure 8: The video “Darkshine (Muse Cover) during the pandemic”"
+  },
+  {
+    "objectID": "home/Publications/Music.html#kera-progressive-death-metal",
+    "href": "home/Publications/Music.html#kera-progressive-death-metal",
+    "title": "Music",
+    "section": "Kera : progressive death metal",
+    "text": "Kera : progressive death metal\nKERA was a Parisian progressive death metal band set up in November 2014. The band’s main influences are Textures, Hypno5e, Dream Theater, Opeth, Meshuggah and Gojira. After a first EP in November 2014, a single in February 2016, Kera Released a full album in November 2017.\nHysteresis is a concept album dealing with mental illness and the persistence of emotional traumas. Songs are rather long (5 out of 9 are longer than 7 minutes), and use lots of complex musical theme (modulations and non symmetric metrics). This album is inspired with all Kera’s influences, leading the auditor into its universe, in which violent and effective riff can be heard right after some aerial parts. Textures’ lead guitarist: Joe Tal plays the solo of the new version of Delusion.\n\n\n\n\n\n\nFigure 9: The video “Kera: Delusion”\n\n\n\n\n\n\n\n\n\nFigure 10: The video “Kera: Harbinger of Doom”"
+  },
+  {
+    "objectID": "home/PhD/PhDPage.html",
+    "href": "home/PhD/PhDPage.html",
+    "title": "PhD: Analysis and Economic Policy",
+    "section": "",
+    "text": "On April 22, 2024 at 5 PM (Paris time), I defended my thesis:\nSocial Investment and the Changing Face of Poverty: Essays on the Design and Evaluation of Social Investment Policies in France.\nJury:\n\nMme Anne BORING, Erasmus University Rotterdam\nM. Rafael LALIVE, Université de Lausanne\nMme Karen MACOURS, INRAE, PSE-Ecole d’économie de Paris\nMme Camille TERRIER, Queen Mary University of London\n\n \nThesis supervisor:\n\nM. Marc GURGAND, CNRS, PSE-Ecole d’économie de Paris\n\n\n\nView PDF\n\n\n\n&lt;p&gt;style=\"width:100%; height:800px;\" frameborder=\"0\"&gt;&lt;/p&gt;\n\n\nOpen PDF in new tab"
+  },
+  {
+    "objectID": "home/index.html#who",
+    "href": "home/index.html#who",
+    "title": "Welcome to my page",
+    "section": "Who ?",
+    "text": "Who ?\nI am an applied economist working on the design and evaluation of public policies to reduce inequalities and poverty in France. I did my PhD in Economics at Paris School of Economics (EHESS) from 2019 to 2024 at the National family allowance fund (Cnaf)."
+  },
+  {
+    "objectID": "home/index.html#what",
+    "href": "home/index.html#what",
+    "title": "Welcome to my page",
+    "section": "What ?",
+    "text": "What ?\nI combine field experiments and microeconometrics to study the effects of active labour market policies for single mothers and how administrative support and information can improve access to early childcare services. I also use market design and implement fair assignment mechanisms for daycare seats in French municipalities."
+  },
+  {
+    "objectID": "home/index.html#where",
+    "href": "home/index.html#where",
+    "title": "Welcome to my page",
+    "section": "Where ?",
+    "text": "Where ?\nI am currently working as project manager in the Research Evaluation and Statistics department (DSER) of the French National family allowance fund (Cnaf)."
+  },
+  {
+    "objectID": "home/index.html#why",
+    "href": "home/index.html#why",
+    "title": "Welcome to my page",
+    "section": "Why ?",
+    "text": "Why ?\n”Many of us chose economics because, ultimately, we thought science could be leveraged to make a positive change in the world. There are many different paths to get there. Scientists design general frames, engineers turn them into relevant machinery, and plumbers finally make them work in a complicated, messy policy environment. […] A feature unique to economics is that scientists, engineers, and plumbers all talk to each other (and in fact are often talking to themselves — the same economist wearing different hats)” Duflo (2017)\n\n\nDuflo, Esther. 2017. “The Economist as Plumber.” American Economic Review 107 (5): 1–26. https://doi.org/10.1257/aer.p20171153.\n\n\n\nThis website is currently being built and is regularly updated."
+  },
+  {
+    "objectID": "home/Labour/Reliance.html",
+    "href": "home/Labour/Reliance.html",
+    "title": "Activation and poverty",
+    "section": "",
+    "text": "This webiste is currently being built and is regularly updated\nFor now, enjoy these slides in French"
+  },
+  {
+    "objectID": "home/Teachings/Teachings.html",
+    "href": "home/Teachings/Teachings.html",
+    "title": "Teachings",
+    "section": "",
+    "text": "These slides were used in spring 2023"
   }
 ]

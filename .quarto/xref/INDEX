@@ -36,5 +36,32 @@
   },
   "Valorisation/ThesisResuméFRFinal.qmd": {
     "ThesisResuméFRFinal.html": "4de6da36"
+  },
+  "home/Publications/Music.qmd": {
+    "Music.html": "15632490"
+  },
+  "home/Publications/Publications.qmd": {
+    "Publications.html": "87ad2850"
+  },
+  "home/PhD/PhDPage.qmd": {
+    "PhDPage.html": "b7cc8964"
+  },
+  "home/CVContacts.qmd": {
+    "CVContacts.html": "3c415136"
+  },
+  "home/index.qmd": {
+    "index.html": "942a23d1"
+  },
+  "home/about.qmd": {
+    "about.html": "eae44e4d"
+  },
+  "home/Labour/Reliance.qmd": {
+    "Reliance.html": "881cadb4"
+  },
+  "home/ISAJE/IsajeMain.qmd": {
+    "IsajeMain.html": "65c45dad"
+  },
+  "home/Teachings/Teachings.qmd": {
+    "Teachings.html": "97d54cc9"
   }
 }
