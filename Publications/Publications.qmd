@@ -75,8 +75,11 @@ We challenge the idea that the French tax-benefit system "make work pay" for sin
 
 -   [Investigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial](https://osf.io/rh7eb/?view_only=ef7409ac646544eaac946374de134892) (With Laudine Carbuccia, Carlo Barone and Coralie Chevalier)
 
+<<<<<<< HEAD
 We recruited 1850 pregnant women in maternity wards in Paris and suburbs and randomly offered administrative support to access formal childcare and information, information only or a placebo information treatment.
 
+=======
+>>>>>>> 3ea063898dd7cbf14e73b67ec04bd1ed5b996b06
 ------------------------------------------------------------------------
 
 # Older publications

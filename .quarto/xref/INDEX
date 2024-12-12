@@ -16,5 +16,25 @@
   },
   "Teachings/Teachings.qmd": {
     "Teachings.html": "288517db"
+  },
+  "Publications/Publications.qmd": {
+    "Publications.html": "b5956065"
+  },
+  "Career.qmd": {
+    "Career.html": "425ba428"
+  },
+  "CVContacts.qmd": {
+    "CVContacts.html": "a9a11602"
+  },
+  "Publications/Music.qmd": {
+    "Music.html": "ba8cde82"
+  },
+  "Valorisation/ThesisResuméFR.qmd": {
+    "ThesisResuméFR.docx": "e5697c91",
+    "ThesisResuméFR.html": "eb134149",
+    "ThesisResuméFR.tex": "af7a1b55"
+  },
+  "Valorisation/ThesisResuméFRFinal.qmd": {
+    "ThesisResuméFRFinal.html": "4de6da36"
   }
 }

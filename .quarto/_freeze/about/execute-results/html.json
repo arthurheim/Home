@@ -2,7 +2,7 @@
   "hash": "a1d1a127a81a3430afa4a166f5e91901",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Bienvenus sur ma page\"\n---\n\n\nSite en construction\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Bienvenus sur ma page\"\n---\n\n\n\nSite en construction\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

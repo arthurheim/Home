@@ -1,0 +1,61 @@
+\documentclass[tikz,border=60pt]{standalone}
+\usepackage[]{geometry}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning}
+
+\begin{document}
+
+\tikzstyle{block} = [rectangle, draw, rounded corners, minimum height=4em, text centered, text width=15em, inner sep=1em]
+\tikzstyle{line} = [draw, -latex']
+\tikzstyle{boldline} = [draw, -latex', line width=1mm]
+\tikzstyle{level1} = [block, fill=biPurple!30]
+\tikzstyle{level2} = [block, fill=biPink!30, text width=13em]
+\tikzstyle{level3} = [block, fill=biBlue!20, text width=11em]
+
+\begin{tikzpicture}[node distance=1cm and 2cm, scale=1]
+
+    % Couleurs du drapeau bisexuel
+    \definecolor{biPink}{RGB}{214,2,112}
+    \definecolor{biPurple}{RGB}{155,79,150}
+    \definecolor{biBlue}{RGB}{0,56,168}
+
+    % Nœud central
+    \node [block, fill=biBlue!30] (isaje) {{\bf ISAJE}\\Investissement social dans l'accueil du Jeune Enfant};
+
+    % Nœuds de niveau 1
+    \node [level1, below left=of isaje, xshift=-3cm] (adaje)  {{\bf{ADAJE }}\\Aide à la Décision pour l'accueil du jeune enfant};
+    \node [level1, below right=of isaje, xshift=3cm] (posaje) {{\bf{POSAJE}}\\Parcours d'orientation vers l'accueil du jeune Enfant};
+    \node [level1, below=of isaje, xshift=-3cm] (mesaje)      {{\bf{MESAJE}}\\Mesure des Effets Sociaux de l'Accueil du Jeune Enfant};
+    \node [level1, below=of isaje, xshift=3cm] (visaje)       {{\bf{VISAJE}}\\Valeur individuelle et sociale de l'accueil du Jeune Enfant};
+
+    % Nœuds de niveau 2
+    \node [level2, below=of adaje] (algo) {2024-2027 \\Développement et déploiement des algorithmes ISAJE};
+    \node [level2, below=of mesaje] (suivi) {2024-2030\\Appariement et suivi des familles de l'expérimentation ISAJE};
+    \node [level2, below=of visaje] (eval) {2025-2027\\Évaluation expérimentale du déploiement des solutions ADAJE et d'informations renforcées};
+    \node [level2, below=of posaje] (exp) {2022-2024 \\ Expérimentation aléatoire contrôlée d'information et accompagnement vers les modes d'accueil};
+
+    % Nœuds de niveau 3
+    \node [level3, below=of eval] (chercheurs3) {Julien Combe (École polytechnique)\\Laudine Carbuccia (Sciences-Po)\\Arthur Heim (Cnaf)};
+    \node [level3, below=of exp] (chercheurs4) {Laudine Carbuccia (Sciences-Po)\\Arthur Heim (Cnaf)\\Carlo Barone (Sciences Po)\\Coralie Chevalier (ENS)};
+    \node [level3, left=of chercheurs3, below=of suivi] (chercheurs2) {Arthur Heim (Cnaf)\\Julien Combe (École polytechnique)\\Saad Loutfi (Cnaf)};
+     \node [level3, left=of chercheurs2, below=of algo] (chercheurs1) {Arthur Heim (Cnaf)\\Julien Combe (École polytechnique)};
+
+    % Connexions
+    \path [boldline] (isaje) -- (adaje);
+    \path [boldline] (isaje) -- (mesaje);
+    \path [boldline] (isaje) -- (visaje);
+    \path [boldline] (isaje) -- (posaje);
+
+    \path [line] (adaje) -- (algo);
+    \path [line] (mesaje) -- (suivi);
+    \path [line] (visaje) -- (eval);
+    \path [line] (posaje) -- (exp);
+
+    \path [line] (algo) -- (chercheurs1);
+    \path [line] (suivi) -- (chercheurs2);
+    \path [line] (eval) -- (chercheurs3);
+    \path [line] (exp) -- (chercheurs4);
+
+\end{tikzpicture}
+
+\end{document}
