@@ -34,25 +34,8 @@ colorsLanguages <- palette_lgbtq("bisexual")
 
 <!-- <i class="fas fa-envelope"></i> [heimarthur\@gmail.com](mailto:heimarthur@gmail.com) -->
 
-## Who ?
-
 I am an applied economist working on the design and evaluation of public policies to reduce inequalities and poverty in France. I did my PhD in Economics at Paris School of Economics (EHESS) from 2019 to 2024 at the National family allowance fund (Cnaf).
-
-## What ?
 
 I combine field experiments and microeconometrics to study the effects of active labour market policies for single mothers and how administrative support and information can improve access to early childcare services. I also use market design and implement fair assignment mechanisms for daycare seats in French municipalities.
 
-## Where ?
-
 I am currently working as project manager in the Research Evaluation and Statistics department (DSER) of the French National family allowance fund (Cnaf).
-
-## Why ?
-
-”*Many of us chose economics because, ultimately, we thought science could be leveraged to make a positive change in the world. There are many different paths to get there. Scientists design general frames, engineers turn them into relevant machinery, and plumbers finally make them work in a complicated, messy policy environment. \[...\] A feature unique to economics is that scientists, engineers, and plumbers all talk to each other (and in fact are often talking to themselves — the same economist wearing different hats)”* @duflo2017
-
-::: {#refs}
-:::
-
-<!-- quarto publish gh-pages -->
-
-**This website is currently being built and is regularly updated**.
