@@ -100,7 +100,7 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 
 *  Heim, A, Steinmetz, C. & Tricot, A. (2015) [Faut-il encore redoubler ?](https://www.reseau-canope.fr/notice/faut-il-encore-redoubler.html), Éditions Canopé.
 
-    + This book builds on the Conference of Consensus organised by the National council for the Evaluation of the French schooling system (Cnesco) from 2013 to 2014. It summarised the state of research at that time and the recommendations of the Jury.
+    + This book builds on the Conference of Consensus organised by the National council for the Evaluation of the French schooling system (Cnesco) from 2013 to 2014. It summarised the state of research at that time and the recommendations of the Jury.   
 
 
 

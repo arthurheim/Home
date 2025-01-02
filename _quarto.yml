@@ -20,12 +20,12 @@ website:
  #     - href: PhD/PhDPage.qmd
   #      icon: mortarboard-fill
    #     text: PhD dissertation
-      - text: Ongoing research
-        icon: bar-chart-steps
-        href: ISAJE/IsajeMain.qmd
+   #   - text: Ongoing research
+   #     icon: bar-chart-steps
+   #     href: ISAJE/IsajeMain.qmd
       
-      - href: Labour/Reliance.qmd
-        text: Labour economics
+  #    - href: Labour/Reliance.qmd
+  #      text: Labour economics
       - href: Teachings/Teachings.qmd
         text: Teachings
         icon: clipboard2-data-fill
@@ -38,8 +38,9 @@ website:
     tools:
       - icon: mailbox-flag
         href: mailto:heimarthur@gmail.com
-      - icon: twitter
-        href: https://x.com/HeimArthur
+      - icon: bluesky  # Custom class for the Bluesky icon
+        href: https://bsky.app/profile/heimarthur.bsky.social
+        label: "Bluesky"
       - icon: github
         menu:
           - text: Source Code
