@@ -3,7 +3,7 @@ project:
   #output-dir: docs
 
 body-footer: | 
-  "This website uses Quarto and its building components are available on https://github.com/arthurheim/Personal-Website"
+  "This website uses Quarto and its building components are available on https://github.com/arthurheim/Home"
 
 website:
   title: "Arthur Heim"
@@ -23,7 +23,6 @@ website:
    #   - text: Ongoing research
    #     icon: bar-chart-steps
    #     href: ISAJE/IsajeMain.qmd
-      
   #    - href: Labour/Reliance.qmd
   #      text: Labour economics
       - href: Teachings/Teachings.qmd

@@ -7,23 +7,17 @@ lightbox: true
 {{< video https://youtu.be/U6yvZ9mHOCs?si=6I7N6_LMaS797M-8 >}}
 
 The opening of *Hysteresis* (Kera, 2017)
-
 :::
 
+Music has been taking a huge place in my life for as long as I can recall. I started reading sheet-music at the same age I was learning words and started to play the Alto sax at age 6. I paused playing sax at age 13-something, stole a guitar from my dad and learned.
 
-Music has been taking a huge place in my life for as long as I can recall. I started reading sheet-music at the same age I was learning words and started to play the Alto sax at age 6.
-I paused playing sax at age 13-something, stole a guitar from my dad and learned. 
-
-In my adult life, I've been playing guitar, lapsteel, bass and sax in a bunch of bands. 
-In particular, I wrote recorded and co-produced the album Hysteresis from Kera, a progressive death metal band active from 2015 to 2020 (Listen to the opening in @fig-Overture).
+In my adult life, I've been playing guitar, lapsteel, bass and sax in a bunch of bands. In particular, I wrote recorded and co-produced the album Hysteresis from Kera, a progressive death metal band active from 2015 to 2020 (Listen to the opening in @fig-Overture).
 
 My music is mostly Rock and Metal although I enjoy and play many different styles.
 
-
 Below, you can watch and listen to some of my favourite's.
 
-
-# Sax 
+# Sax
 
 ## Live music with Magoyond
 
@@ -35,128 +29,94 @@ MAGOYOND’s french alternative metal is worthy of a black cabaret, theatrical, 
 
 I first played with Magoyond in 2016 on a single song for one live. In 2019, the band recorded the Kryptshow album where I recorded the sax parts of two songs :
 
-- Vegas Zombie
-- Le magasin des suicides
+-   Vegas Zombie
+-   Le magasin des suicides
 
 Since I was doing my PhD at that time, I only went on tour a few time. In 2020, In the mids of the pandemic, we recorded a studio live.
 
-### Trianon, November 2023        
-::: {#fig-Trianon}
+### Trianon, November 2023
 
+::: {#fig-Trianon}
 {{< video https://youtu.be/uGRJPsjy_4U?si=TPcTPA3Z4UmICNzp >}}
 
 The video "Magoyond au Trianon, filmé par le public"
-
 :::
 
-In @fig-Trianon we perform *Vegas Zombie* from the album **Kryptshow** released in 2019. 
-This video was recorded in November 2024 at Le Trianon Paris and uses records from the audience.
+In @fig-Trianon we perform *Vegas Zombie* from the album **Kryptshow** released in 2019. This video was recorded in November 2024 at Le Trianon Paris and uses records from the audience.
 
-### Arsenic live session (2020)        
+### Arsenic live session (2020)
+
 ::: {#fig-Arsenic}
-
 {{< video https://www.youtube.com/watch?v=68737y5xtW0&list=PLxEzkGfquBoMo13x-5HWDTDFLaF3JQOEP&pp=iAQB >}}
 
 The video "Magoyond Arsenic live session"
-
 :::
 
-In @fig-Arsenic we recorded live a pseudo accoustic session with Magoyond and other guests.
-The setlist:
+In @fig-Arsenic we recorded live a pseudo accoustic session with Magoyond and other guests. The setlist:
 
-- Le pudding à l'arsenic
-- Hector Zam
-- Kraken Palace (Acoustic guitar)
-- Le Magasin des suicides
-
-
+-   Le pudding à l'arsenic
+-   Hector Zam
+-   Kraken Palace (Acoustic guitar)
+-   Le Magasin des suicides
 
 ## Other guest-project
 
 **ZoiZo** is a French song group with influences of jazz, rock, and soul, and includes some reinterpreted covers. In this cover of *Where did you sleep last night ?*, I play bass, sax and guitar.
 
 ::: {#fig-BabaLucie}
-
-{{< video https://youtu.be/DJ__e5Qivho?si=CDdfo6NODwJkBRH_ >}}
+{{< video https://youtu.be/DJ_e5Qivho?si=CDdfo6NODwJkBRH >}}
 
 The video " A Vol d'Oiseau - where did you sleep last night - leadbelly cover "
-
 :::
-
 
 # Guitar
 
 ## Shredding and glitters
 
 ::: {#fig-Extremist}
-
 {{< video https://www.youtube.com/watch?v=L13pH7reXpI >}}
 
 The video "The Extremist (Joe Satriani Cover)"
-
 :::
 
 Just after I sent my PhD dissertation to the jury, I decided to record a one shot at The Extremist, by Joe Satriani (1992). This album was one of my favourite when I was 16 and quite a challenge to play now that I am twice as old.
-
 
 ## Covid covers against boredom
 
 During the first lock-down of the Covid-19 pandemic, I started recorded one or two song every weekend with close friends and relatives. There is a total of 13 songs one can find on Youtube. Here are some of the bests.
 
-
 ::: {#fig-CovidImpossible}
-
 {{< video https://www.youtube.com/watch?v=5Q3hmnM5tnA >}}
 
 The video "Impossible (Cover La Rue Ketanou) during the pandemic"
-
 :::
 
-
 ::: {#fig-CovidSteven}
-
 {{< video https://youtu.be/MtkYbgBt3lk?si=rbJ0ZU1Xx-1epy9t >}}
 
 The video "Routine (Steven Wilson Cover) during the pandemic"
-
 :::
 
-
 ::: {#fig-CovidMuse}
-
 {{< video https://www.youtube.com/watch?v=RBLQQxvwYKg >}}
 
 The video "Darkshine (Muse Cover) during the pandemic"
-
 :::
-
 
 ## Kera : progressive death metal
 
-KERA was a Parisian progressive death metal band set up in November 2014. The band’s main influences are Textures, Hypno5e, Dream Theater, Opeth, Meshuggah and Gojira.
-After a first EP in November 2014, a single in February 2016, Kera Released a full album in November 2017. 
+KERA was a Parisian progressive death metal band set up in November 2014. The band’s main influences are Textures, Hypno5e, Dream Theater, Opeth, Meshuggah and Gojira. After a first EP in November 2014, a single in February 2016, Kera Released a full album in November 2017.
 
-**Hysteresis** is a concept album dealing with mental illness and the persistence of emotional traumas.
-Songs are rather long (5 out of 9 are longer than 7 minutes), and use lots of complex musical theme (modulations and non symmetric metrics).
-This album is inspired with all Kera's influences, leading the auditor into its universe, in which violent and effective riff can be heard right after some aerial parts.
-Textures' lead guitarist: Joe Tal plays the solo of the new version of Delusion.
-
+**Hysteresis** is a concept album dealing with mental illness and the persistence of emotional traumas. Songs are rather long (5 out of 9 are longer than 7 minutes), and use lots of complex musical theme (modulations and non symmetric metrics). This album is inspired with all Kera's influences, leading the auditor into its universe, in which violent and effective riff can be heard right after some aerial parts. Textures' lead guitarist: Joe Tal plays the solo of the new version of Delusion.
 
 ::: {#fig-KeraDelu}
-
 {{< video https://www.youtube.com/watch?v=xVNml7A0rVs >}}
 
 The video "Kera: Delusion"
-
 :::
 
-
 ::: {#fig-KeraHarbi}
-
 {{< video https://www.youtube.com/watch?v=guOXtQVrkD8 >}}
 
 The video "Kera: Harbinger of Doom"
-
 :::
-
-

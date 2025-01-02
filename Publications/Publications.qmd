@@ -137,8 +137,3 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 
 * Heim, A. (2017). L’investissement social: quelles significations ? Quelles implications ? *Cahier Français*, 399, 16–21.
 
-
-
-### Pre-doctoral Research and Policy Briefs
-
-**This website is currently being built and is regularly updated.**
