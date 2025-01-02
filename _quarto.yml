@@ -17,9 +17,9 @@ website:
       - href: CVContacts.qmd
         text: CV and contact
         icon: person-lines-fill  
-      - href: PhD/PhDPage.qmd
-        icon: mortarboard-fill
-        text: PhD dissertation
+ #     - href: PhD/PhDPage.qmd
+  #      icon: mortarboard-fill
+   #     text: PhD dissertation
       - text: Ongoing research
         icon: bar-chart-steps
         href: ISAJE/IsajeMain.qmd

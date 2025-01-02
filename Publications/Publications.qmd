@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Research"
 lightbox: true
 format:
   html:
@@ -18,7 +18,8 @@ pacman::p_load(
   knitr,
   kableExtra,
   RefManageR,
-  httr
+  httr,
+  fontawesome
   )
 
 #library(dplyr)
@@ -57,34 +58,87 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 # }
 ```
 
-## Working Papers
+# Early childhood care and education
 
-### 2024
+### Pre-prints
 
--   [Rage against the Matching](https://www.dropbox.com/scl/fi/7r9c1lglfu04naqnbad4c/CombeHeim2024.pdf?rlkey=44rkwhus5nwj9kjq0gn0l4w9b&dl=0 "Rage against the Matching: Fairness and inequalities in a market design experiment in France") (with Julien Combe)
+* Combe, J. & Heim, A. (2024) [Rage against the Matching: Fairness and inequalities in a market design experiment in France](https://www.dropbox.com/scl/fi/7r9c1lglfu04naqnbad4c/CombeHeim2024.pdf?rlkey=44rkwhus5nwj9kjq0gn0l4w9b&dl=0 "Rage against the Matching: Fairness and inequalities in a market design experiment in France"), in *Social investment & the changing face of poverty: Essays on the design & Evaluation of family policies in France*, PhD Thesis, EHESS, 2024. English. 
 
-We use market design to define assignment mechanisms for the daycare market. We conduct a field experiment using them in France and analyse *who gets what and why.*
+    + We use market design to define assignment mechanisms for the daycare market. We conduct a field experiment using them in France and analyse *who gets what and why.*
 
--   [Welfare to What ?](https://www.dropbox.com/scl/fi/8jmyo6vvo4sk8o2ru09tw/Heim2024.pdf?rlkey=3cq7y8o84npws5cmdm2pgfsbx&dl=0 "Welfare to what ? Experimental evaluation of an activation programme for single mothers in poverty in France")
+        - [Slides](https://www.dropbox.com/scl/fi/4pvg0chbiwtevwiil5re5/RATM_EN092024.pdf?rlkey=o67gk9trd2pqof8jh6mjjpbz7&dl=0)
+        - [Chapter](https://www.dropbox.com/scl/fi/7r9c1lglfu04naqnbad4c/CombeHeim2024.pdf?rlkey=44rkwhus5nwj9kjq0gn0l4w9b&dl=0)
 
-I evaluate a randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. I find no effect on labour market participation and poverty after the end of the programme.
+* Carbuccia, L. Heim, A. Barone, C. & Chevalier, C. (2024) [Investigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial](https://osf.io/rh7eb/?view_only=ef7409ac646544eaac946374de134892), Submitted to *Nature Human Behaviour*.
 
--   [Tax burden on the poor](https://www.dropbox.com/scl/fi/xdhov425ez5n1jcxl053r/GalitzineHeim2024.pdf?rlkey=pdun971icjt4biq7ikwrm2ji1&dl=0 "Tax burden on the poor: Single mothers’ optimisation behaviours following an experimental activation programme in France") (with Alexandra galitzine)
+    + "Multi-arm RCT in the Paris region measuring the effects of providing information and administrative support to pregnant women to access formal childcare.
 
-We challenge the idea that the French tax-benefit system "make work pay" for single parents and analyse reactions following a randomised intensive welfare-to-work programme.
+        - [Pre-print and replication material](https://osf.io/rh7eb/?view_only=ef7409ac646544eaac946374de134892)
 
--   [Investigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial](https://osf.io/rh7eb/?view_only=ef7409ac646544eaac946374de134892) (With Laudine Carbuccia, Carlo Barone and Coralie Chevalier)
+## Active labour market policies
 
-# Older publications
+### Pre-prints 
 
-## Book
+* Heim (2024) [Welfare to What ?](https://www.dropbox.com/scl/fi/8jmyo6vvo4sk8o2ru09tw/Heim2024.pdf?rlkey=3cq7y8o84npws5cmdm2pgfsbx&dl=0 "Welfare to what ? Experimental evaluation of an activation programme for single mothers in poverty in France"), submitted to *European Economic Review*.
 
-### 2015
+    + I evaluate a randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. I find no effect on labour market participation and poverty after the end of the programme.
 
--   [Faut-il encore redoubler ?](https://www.reseau-canope.fr/notice/faut-il-encore-redoubler.html) (With André Tricot and Claire Steinmetz)
+        - [Pre-print and replication material](https://osf.io/qhazf/)
+        - [Pre registration](https://www.socialscienceregistry.org/trials/5930)
+        
+* Galitzine, A. & Heim, A. [Tax burden on the poor: : Single mothers’ optimisation behaviours following an experimental activation programme in France](https://www.dropbox.com/scl/fi/xdhov425ez5n1jcxl053r/GalitzineHeim2024.pdf?rlkey=pdun971icjt4biq7ikwrm2ji1&dl=0) in *Social investment & the changing face of poverty: Essays on the design & Evaluation of family policies in France*, PhD Thesis, EHESS, 2024. English. 
 
-This book builds on the Conference of Consensus organised by the National council for the Evaluation of the French schooling system (Cnesco) from 2013 to 2014. It summarised the state of research at that time and the recommendations of the Jury.
+    + We challenge the idea that the French tax-benefit system "make work pay" for single parents and analyse reactions following a randomised intensive welfare-to-work programme.
+        
+        - [Pre-print](https://www.dropbox.com/scl/fi/xdhov425ez5n1jcxl053r/GalitzineHeim2024.pdf?rlkey=pdun971icjt4biq7ikwrm2ji1&dl=0)
+        - [Slides](https://www.dropbox.com/scl/fi/9dbpmcefmout7rwrwqvt6/TaxBurdenEnShort.pdf?rlkey=omrpuo36dge0phkd2havhxo5p&dl=0)
+        
 
-## Pre-doctoral Research and Policy Briefs
+## Education
+
+### Book
+
+*  Heim, A, Steinmetz, C. & Tricot, A. (2015) [Faut-il encore redoubler ?](https://www.reseau-canope.fr/notice/faut-il-encore-redoubler.html), Éditions Canopé.
+
+    + This book builds on the Conference of Consensus organised by the National council for the Evaluation of the French schooling system (Cnesco) from 2013 to 2014. It summarised the state of research at that time and the recommendations of the Jury.
+
+
+
+### Working papers in French
+
+* Mons, N., Heim, A., & Blanchard‐Schneider, A. (2015). [Lutter contre les difficultés scolaires : Le redoublement et ses alternatives](https://hal.science/hal-04623894v1). Dossier de synthèse. Cnesco.
+
+* Heim, A., & Steinmetz, C. (2015). [Une comparaison statistique et reglementaire.](https://www.cnesco.fr/wp-content/uploads/2015/01/partie_1.pdf) In Lutter conte la difficulté scolaire: Le redoublement et ses alternatives (Vol. 1). Conseil national d’évaluation du système scolaire (Cnesco).
+
+* Heim, A., & Steinmetz, C. (2015). [De l’étude de ses impacts à la croyance en son utilité.](https://www.cnesco.fr/wp-content/uploads/2015/01/part_2.pdf) In Le redoublement en France et dans le monde (Vol. 2). Conseil national d’évaluation du système scolaire (Cnesco).
+
+* Heim, A., & Steinmetz, C. (2015). [Quelles alternatives au redoublement ?](https://www.cnesco.fr/wp-content/uploads/2015/01/partie_3.pdf) In Le redoublement en France et dans le monde (Vol. 3). Conseil national d’évaluation du système scolaire (Cnesco).
+
+* Heim, A., & Galinié, A. (2016). [Inégalités scolaires : Quels rôles jouent les cours privés ?](https://www.cnesco.fr/wp-content/uploads/2016/09/heim_galine_solo1.pdf) In Contribution au rapport du Cnesco: Les inégalités scolaires d’origines sociales et ethnoculturelle. Cnesco.
+
+* Heim, A. & Ni J. (2016) [L'éducation peut elle favoriser la croissance ?](https://www.strategie.gouv.fr/publications/leducation-favoriser-croissance) Note d'analyse, France Stratégie.
+
+* Heim, A. (2018). [Quand la scolarisation à 2 ans n’a pas les effets attendus: Des evaluations sur données françaises](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/dt-scolarisation-precoce-2-ans-janvier.pdf) Document de travail, France Stratégie.
+
+## Social investment
+
+### PhD Thesis
+
+* Heim, A. (2024) [Social investment and the changing face of poverty: essay on the design and evaluation of family and social policies in France](https://hal.science/tel-04801852), PhD Thesis. Paris School of Economics (EHESS), English. ⟨NNT : ⟩. ⟨tel-04801852⟩
+
+
+## Working papers
+
+* Fougère, D. & Heim, A (2019)  [L'évaluation socioéconomique de l'investissement social](https://hal.science/hal-03456048v1)
+
+* Fougère, D. & Heim, A (2019) [L'investissement social à l'épreuve de l'évaluation socioéconomique](https://hal.science/hal-03474890v1) Document de travail, France Stratégie - Commissariat général à la stratégie et la prospective. 2019, pp.8. ⟨hal-03474890⟩
+
+* Heim, A. (2017). [Comment estimer le rendement de l’investissement social ?](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs_dt2017-02_rendement_investissement_social.pdf) Document de Travail France Stratégie, 2017‐02.
+
+* Heim, A. (2017). L’investissement social: quelles significations ? Quelles implications ? *Cahier Français*, 399, 16–21.
+
+
+
+### Pre-doctoral Research and Policy Briefs
 
 **This website is currently being built and is regularly updated.**
