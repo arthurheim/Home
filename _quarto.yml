@@ -37,6 +37,9 @@ website:
     tools:
       - icon: mailbox-flag
         href: mailto:heimarthur@gmail.com
+      - icon: {{< iconify exploding-head >}}#{{< iconify fa6-brands:bluesky size=2em title='Bluesky'>}}
+        href: https://bsky.app/profile/heimarthur.bsky.social
+        target: _blank  
       - icon: bluesky  # Custom class for the Bluesky icon
         href: https://bsky.app/profile/heimarthur.bsky.social
         label: "Bluesky"

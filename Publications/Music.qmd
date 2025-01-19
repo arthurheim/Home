@@ -15,7 +15,7 @@ In my adult life, I've been playing guitar, lapsteel, bass and sax in a bunch of
 
 My music is mostly Rock and Metal although I enjoy and play many different styles.
 
-Below, you can watch and listen to some of my favourite's.
+Below, you can watch and listen to some of my favourites'.
 
 # Sax
 
@@ -71,13 +71,27 @@ The video " A Vol d'Oiseau - where did you sleep last night - leadbelly cover "
 
 # Guitar
 
-## Shredding and glitters
+## Fusion improvisation
+
+## 
 
 ::: {#fig-Extremist}
+{{< video https://www.youtube.com/watch?v=Pd3inWTIb-w >}}
+
+The video "Guitar Improvisation: Funk Fusion in G min (from Jamin Backing Tracks)"
+:::
+
+I found a nice backing track on youtube and decided to record my improvisation. I had a lot of fun playing that one.
+
+## Shredding and glitters
+
+<div>
+
 {{< video https://www.youtube.com/watch?v=L13pH7reXpI >}}
 
 The video "The Extremist (Joe Satriani Cover)"
-:::
+
+</div>
 
 Just after I sent my PhD dissertation to the jury, I decided to record a one shot at The Extremist, by Joe Satriani (1992). This album was one of my favourite when I was 16 and quite a challenge to play now that I am twice as old.
 

@@ -39,3 +39,7 @@ I am an applied economist working on the design and evaluation of public policie
 I combine field experiments and microeconometrics to study the effects of active labour market policies for single mothers and how administrative support and information can improve access to early childcare services. I also use market design and implement fair assignment mechanisms for daycare seats in French municipalities.
 
 I am currently working as project manager in the Research Evaluation and Statistics department (DSER) of the French National family allowance fund (Cnaf).
+
+* {{< iconify fa6-brands:bluesky size=1em title='Bluesky'>}} [heimarthur.bsky.social](https://bsky.app/profile/heimarthur.bsky.social)
+
+* <i class="fas fa-envelope"></i> [heimarthur\@gmail.com](mailto:heimarthur@gmail.com)
