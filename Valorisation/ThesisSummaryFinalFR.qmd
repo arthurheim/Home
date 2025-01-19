@@ -12,10 +12,7 @@ abstract: |
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 format: html
 bibliography: BiblioPHDHEIM.bib
-
 ---
-
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE,message=FALSE, warning=FALSE,fig.width = 8,fig.height = 5,fig.pos = "H" #, 
