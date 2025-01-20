@@ -1,1 +1,1 @@
-Sitemap: https://yourusername.github.io/arthurheim/Home/sitemap.xml
+Sitemap: https://arthurheim.github.io/Home/sitemap.xml
