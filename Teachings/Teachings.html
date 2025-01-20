@@ -311,7 +311,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/arthurheim\.github\.io\/Home\/");
+      var filterRegex = new RegExp("https:\/\/arthurheim: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@github\.com\/arthurheim\/Home\.git");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
