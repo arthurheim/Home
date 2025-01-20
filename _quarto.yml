@@ -10,7 +10,7 @@ website:
   twitter-card: true 
   open-graph: true
   repo-url: https://github.com/arthurheim/Home
-  site-url: https://yourusername.github.io/arthurheim/Home
+  site-url: https://arthurheim.github.io/Home
   navbar:
     left:
       - href: index.qmd
