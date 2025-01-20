@@ -60,4 +60,4 @@ rsconnect/
 
 /.quarto/
 /_site/
-
+_site/*.html
