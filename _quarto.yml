@@ -1,6 +1,6 @@
 project:
   type: website
-  #output-dir: docs
+  output-dir: docs
 
 body-footer: | 
   "This website uses Quarto and its building components are available on https://github.com/arthurheim/Home"
