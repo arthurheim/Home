@@ -64,8 +64,7 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 
 -   Combe, J. & Heim, A. (2024) [Rage against the Matching: Fairness and inequalities in a market design experiment in France](https://www.dropbox.com/scl/fi/7r9c1lglfu04naqnbad4c/CombeHeim2024.pdf?rlkey=44rkwhus5nwj9kjq0gn0l4w9b&dl=0 "Rage against the Matching: Fairness and inequalities in a market design experiment in France"), in *Social investment & the changing face of poverty: Essays on the design & Evaluation of family policies in France*, PhD Thesis, EHESS, 2024. English.
 
-    -    Definition and implementation of market design solutions to define assignment mechanisms for the daycare market in a field experiment in France.
-
+    -   Definition and implementation of market design solutions to define assignment mechanisms for the daycare market in a field experiment in France.
         -   [Slides](https://www.dropbox.com/scl/fi/4pvg0chbiwtevwiil5re5/RATM_EN092024.pdf?rlkey=o67gk9trd2pqof8jh6mjjpbz7&dl=0)
         -   [Chapter](https://www.dropbox.com/scl/fi/7r9c1lglfu04naqnbad4c/CombeHeim2024.pdf?rlkey=44rkwhus5nwj9kjq0gn0l4w9b&dl=0)
 
@@ -85,8 +84,9 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 
         -   [Pre-print and replication material](https://osf.io/qhazf/)
         -   [Pre registration](https://www.socialscienceregistry.org/trials/5930)
-        
+
     -   Press coverage :
+
         -   [**Mediapart**](https://www.mediapart.fr/journal/economie-et-social/120125/reforme-du-rsa-la-menace-de-marginaliser-des-publics-deja-vulnerables)
         -   [**Alternatives économiques**](https://www.alternatives-economiques.fr/rsa-conditionne-preuve-trois-ca-ne-marche/00113744)
 
