@@ -40,6 +40,6 @@ I combine field experiments and microeconometrics to study the effects of active
 
 I am currently working as project manager in the Research Evaluation and Statistics department (DSER) of the French National family allowance fund (Cnaf).
 
-* {{< iconify fa6-brands:bluesky size=1em title='Bluesky'>}} [heimarthur.bsky.social](https://bsky.app/profile/heimarthur.bsky.social)
+-   {{< iconify fa6-brands:bluesky size=1em title='Bluesky'>}} [heimarthur.bsky.social](https://bsky.app/profile/heimarthur.bsky.social)
 
-* <i class="fas fa-envelope"></i> [heimarthur\@gmail.com](mailto:heimarthur@gmail.com)
+-   <i class="fas fa-envelope"></i> [heimarthur\@gmail.com](mailto:heimarthur@gmail.com)
