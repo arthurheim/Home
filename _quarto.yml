@@ -9,6 +9,7 @@ website:
   title: "Arthur Heim"
   twitter-card: true 
   open-graph: true
+  repo-url: https://github.com/arthurheim/Home
   navbar:
     left:
       - href: index.qmd
