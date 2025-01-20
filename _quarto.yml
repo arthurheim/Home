@@ -46,7 +46,7 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            href:  https://github.com/arthurheim/Personal-Website
+            href:  https://github.com/arthurheim/Home
 format:
   html:
     theme: lux
