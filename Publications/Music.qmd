@@ -64,7 +64,7 @@ In @fig-Arsenic we recorded live a pseudo accoustic session with Magoyond and ot
 **ZoiZo** is a French song group with influences of jazz, rock, and soul, and includes some reinterpreted covers. In this cover of *Where did you sleep last night ?*, I play bass, sax and guitar.
 
 ::: {#fig-BabaLucie}
-{{< video https://youtu.be/DJ_e5Qivho?si=CDdfo6NODwJkBRH >}}
+{{< video https://youtu.be/DJ__e5Qivho?si=zCg_VIb7nCOnrSW- >}}
 
 The video " A Vol d'Oiseau - where did you sleep last night - leadbelly cover "
 :::
