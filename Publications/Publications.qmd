@@ -64,14 +64,14 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 
 -   Carbuccia, L. Heim, A. Barone, C. & Chevalier, C. (2024) [Investigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial](https://osf.io/rh7eb/?view_only=ef7409ac646544eaac946374de134892), **Revise & Resubmit**, *Nature Human Behaviour*.
 
-    -   "Multi-arm RCT in the Paris region measuring the effects of providing information and administrative support to pregnant women to access formal childcare increases social inequalities in access to daycare centres.
+    -   "Multi-arm RCT in the Paris region measuring the effects of providing information and administrative support to pregnant women to access formal childcare. The programme increases social inequalities in access to daycare centres.
 
         -   [Pre-print and replication material](https://osf.io/rh7eb/?view_only=ef7409ac646544eaac946374de134892)
         -   [Pre-registration](https://www.socialscienceregistry.org/trials/9901)
 
 -   Combe, J. & Heim, A. (2024) [Rage against the Matching: Fairness and inequalities in a market design experiment in France](https://www.dropbox.com/scl/fi/7r9c1lglfu04naqnbad4c/CombeHeim2024.pdf?rlkey=44rkwhus5nwj9kjq0gn0l4w9b&dl=0 "Rage against the Matching: Fairness and inequalities in a market design experiment in France"), in *Social investment & the changing face of poverty: Essays on the design & Evaluation of family policies in France*, PhD Thesis, EHESS, 2024. English.
 
-    -   Definition and implementation of market design solutions to define assignment mechanisms for the daycare market in a field experiment in France.
+    -   Definition and implementation of market design solutions to define assignment mechanisms for the daycare market in a field experiment in France. Analysis of the effect of priority weights and behavioural responses to incentives.
         -   [Slides](https://www.dropbox.com/scl/fi/4pvg0chbiwtevwiil5re5/RATM_EN092024.pdf?rlkey=o67gk9trd2pqof8jh6mjjpbz7&dl=0)
         -   [Chapter](https://www.dropbox.com/scl/fi/7r9c1lglfu04naqnbad4c/CombeHeim2024.pdf?rlkey=44rkwhus5nwj9kjq0gn0l4w9b&dl=0)
 
@@ -81,7 +81,7 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 
 -   Heim (2024) [Welfare to What ?](https://www.dropbox.com/scl/fi/8jmyo6vvo4sk8o2ru09tw/Heim2024.pdf?rlkey=3cq7y8o84npws5cmdm2pgfsbx&dl=0 "Welfare to what ? Experimental evaluation of an activation programme for single mothers in poverty in France"), submitted to *European Economic Review*.
 
-    -   A Randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France shows no effect on labour market participation and poverty after the end of the programme.
+    -   A Randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. Results show no effect on labour market participation and poverty after the end of the programme but higher social transfers.
 
         -   [Pre-print and replication material](https://osf.io/qhazf/)
         -   [Pre registration](https://www.socialscienceregistry.org/trials/5930)
@@ -93,7 +93,7 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 
 -   Galitzine, A. & Heim, A. [Tax burden on the poor: : Single mothers’ optimisation behaviours following an experimental activation programme in France](https://www.dropbox.com/scl/fi/xdhov425ez5n1jcxl053r/GalitzineHeim2024.pdf?rlkey=pdun971icjt4biq7ikwrm2ji1&dl=0) in *Social investment & the changing face of poverty: Essays on the design & Evaluation of family policies in France*, PhD Thesis, EHESS, 2024. English.
 
-    -   We challenge the idea that the French tax-benefit system "make work pay" for single parents and analyse reactions following a randomised intensive welfare-to-work programme.
+    -   We challenge the idea that the French tax-benefit system "make work pay" for single parents and analyse reactions following a randomised intensive welfare-to-work programme. We use instrumental distribution regressions and find strong (negative) intensive margin reactions.
 
         -   [Pre-print](https://www.dropbox.com/scl/fi/xdhov425ez5n1jcxl053r/GalitzineHeim2024.pdf?rlkey=pdun971icjt4biq7ikwrm2ji1&dl=0)
         -   [Slides](https://www.dropbox.com/scl/fi/9dbpmcefmout7rwrwqvt6/TaxBurdenEnShort.pdf?rlkey=omrpuo36dge0phkd2havhxo5p&dl=0)
