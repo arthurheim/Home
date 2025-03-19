@@ -107,6 +107,18 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
         -   [Pre-print](https://www.dropbox.com/scl/fi/xdhov425ez5n1jcxl053r/GalitzineHeim2024.pdf?rlkey=pdun971icjt4biq7ikwrm2ji1&dl=0)
         -   [Slides](https://www.dropbox.com/scl/fi/9dbpmcefmout7rwrwqvt6/TaxBurdenEnShort.pdf?rlkey=omrpuo36dge0phkd2havhxo5p&dl=0)
 
+## Reproducible research
+
+::: {.callout-note}
+## Revise and Resubmit 
+
+- Balazs, A. Et. Al. (2025) Investigating the analytical robustness of the social and behavioural sciences 2024, **Revise & Resubmit**, *Nature Human Behaviour*.
+
+        -   The Multi100 project is a crowdsourced empirical project aiming to estimate how robust published results and conclusions in social and behavioral sciences are to analysts’ analytical choices. Involving more than 200 researchers around the world, we will investigate whether  - different analysts arrive at the same conclusions as the author of the original study - different analysts arrive at the same effect estimates as the author of the original study.
+        - [Pre-registration](https://osf.io/q5h2c/)
+:::
+
+
 ## Education
 
 ### Book
