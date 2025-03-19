@@ -114,8 +114,14 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 
 - Balazs, A. Et. Al. (2025) Investigating the analytical robustness of the social and behavioural sciences 2024, **Revise & Resubmit**, *Nature Human Behaviour*.
 
-        -   The Multi100 project is a crowdsourced empirical project aiming to estimate how robust published results and conclusions in social and behavioral sciences are to analysts’ analytical choices. Involving more than 200 researchers around the world, we will investigate whether  - different analysts arrive at the same conclusions as the author of the original study - different analysts arrive at the same effect estimates as the author of the original study.
-        - [Pre-registration](https://osf.io/q5h2c/)
+    -   The Multi100 project is a crowdsourced empirical project involving more than 200 researchers around the world. It aims to estimate how robust published results and conclusions in social and behavioral sciences are to analysts’ analytical choices. 
+    - I replicated the main claims in: 
+      
+      - Behrman, Jere R, Susan W Parker, Petra E Todd, et Kenneth I Wolpin. *Aligning Learning Incentives of Students and Teachers: Results from a Social Experiment in Mexican High Schools*. Journal of Political Economy, 2015, 41.
+      - Angrist, Joshua, et Victor Lavy. *The Effects of High Stakes High School Achievement Awards: Evidence from a Randomized Trial*. American Economic Review 99, nᵒ 4 (1 août 2009): 1384‑1414.
+
+      
+    -   [Pre-registration](https://osf.io/q5h2c/)
 :::
 
 
