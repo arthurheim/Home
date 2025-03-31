@@ -40,7 +40,15 @@ iframe {
 }
 
 
+<<<<<<< HEAD
 
+=======
+.callout-block {
+  background-color: #f0f0f0 !important; /* Light grey background */
+  padding: 20px;
+  border-radius: 10px;
+}
+>>>>>>> 3dbc1febbc73c14831b33a3b2dff25ccd0961c6a
 
 .columns {
   display: flex;
