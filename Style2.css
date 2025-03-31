@@ -38,3 +38,23 @@ iframe {
   height: 100%;
   border: none;
 }
+
+
+
+
+.columns {
+  display: flex;
+  align-items: center; /* Centers content vertically */
+  gap: 20px;
+}
+
+.column img {
+  display: block;
+  margin: auto; /* Centers image */
+  border-radius: 50%; /* Optional: makes image circular */
+  max-width: 150px; /* Adjust as needed */
+}
+
+.column {
+  text-align: left;
+}

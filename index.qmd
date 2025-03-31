@@ -3,7 +3,8 @@ title: "Welcome to my page"
 lightbox: true
 format: 
   html:
-    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css
+    css:
+      - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css
 bibliography: references.bib
 ---
 
@@ -30,16 +31,41 @@ colorsLanguages <- palette_lgbtq("bisexual")
 
 ```
 
+::: {.callout-block title=""}
+:::: {.columns}
+
+
+::: {.column width="35%"}
+
+\vspace{3cm}
 ![](images/PSE_a.heim-12.jpg){fig-align="center" width="252"}
 
-<!-- <i class="fas fa-envelope"></i> [heimarthur\@gmail.com](mailto:heimarthur@gmail.com) -->
+
+:::
+
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+
+::: {.column width="60%"}
 
 I am an applied economist working on the design and evaluation of public policies to reduce inequalities and poverty in France. I did my PhD in Economics at Paris School of Economics (EHESS) from 2019 to 2024 at the National family allowance fund (Cnaf).
 
 I combine field experiments and microeconometrics to study the effects of active labour market policies for single mothers and how administrative support and information can improve access to early childcare services. I also use market design and implement fair assignment mechanisms for daycare seats in French municipalities.
 
 I am currently working as project manager in the Research Evaluation and Statistics department (DSER) of the French National family allowance fund (Cnaf).
+:::
+
+::::
+
+:::
+
+
 
 -   {{< iconify fa6-brands:bluesky size=1em title='Bluesky'>}} [heimarthur.bsky.social](https://bsky.app/profile/heimarthur.bsky.social)
 
 -   <i class="fas fa-envelope"></i> [heimarthur\@gmail.com](mailto:heimarthur@gmail.com)
+
+<!-- <i class="fas fa-envelope"></i> [heimarthur\@gmail.com](mailto:heimarthur@gmail.com) -->
