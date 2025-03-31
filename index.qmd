@@ -3,13 +3,8 @@ title: "Welcome to my page"
 lightbox: true
 format: 
   html:
-<<<<<<< HEAD
     css:
       - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css
-=======
-    css: 
-      - Style2.css
->>>>>>> 3dbc1febbc73c14831b33a3b2dff25ccd0961c6a
 bibliography: references.bib
 ---
 
