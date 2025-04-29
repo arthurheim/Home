@@ -58,21 +58,19 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 # }
 ```
 
-# Early childhood care and education
+## Early childhood care and education
 
 ### Pre-prints
 
-::: {.callout-note}
-## Revise and Resubmit 
-
--   Carbuccia, L. Heim, A. Barone, C. & Chevalier, C. (2024) [Investigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial](https://osf.io/rh7eb/?view_only=ef7409ac646544eaac946374de134892), **Revise & Resubmit**, *Nature Human Behaviour*.
+::: {.callout-tip}
+## Conditionally accepted !
+-   Carbuccia, L. Heim, A. Barone, C. & Chevalier, C. (2025) [Investigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial](https://osf.io/rh7eb/?view_only=ef7409ac646544eaac946374de134892), *Nature Human Behaviour*.
 
     -   "Multi-arm RCT in the Paris region measuring the effects of providing information and administrative support to pregnant women to access formal childcare. The programme increases social inequalities in access to daycare centres.
 
         -   [Pre-print and replication material](https://osf.io/rh7eb/?view_only=ef7409ac646544eaac946374de134892)
         -   [Pre-registration](https://www.socialscienceregistry.org/trials/9901)
 :::
-
 
 -   Combe, J. & Heim, A. (2024) [Rage against the Matching: Fairness and inequalities in a market design experiment in France](https://www.dropbox.com/scl/fi/7r9c1lglfu04naqnbad4c/CombeHeim2024.pdf?rlkey=44rkwhus5nwj9kjq0gn0l4w9b&dl=0 "Rage against the Matching: Fairness and inequalities in a market design experiment in France"), in *Social investment & the changing face of poverty: Essays on the design & Evaluation of family policies in France*, PhD Thesis, EHESS, 2024. English.
 
@@ -84,10 +82,9 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 
 ### Pre-prints
 
-::: callout-tip
+::: {.callout-tip}
 ## New version !
-
--   Heim, A. (2025) [Welfare to What ?](https://osf.io/y8stq) "Welfare to what ? Experimental evaluation of an activation programme for single mothers in poverty in France"), submitted to *European Economic Review*.
+-   Heim (2025) [Welfare to What ?](https://osf.io/y8stq) "Welfare to what ? Experimental evaluation of an activation programme for single mothers in poverty in France"), submitted to *European Economic Review*.
 
     -   A Randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. Results show no effect on labour market participation and poverty after the end of the programme but higher social transfers.
 
@@ -106,24 +103,6 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 
         -   [Pre-print](https://www.dropbox.com/scl/fi/xdhov425ez5n1jcxl053r/GalitzineHeim2024.pdf?rlkey=pdun971icjt4biq7ikwrm2ji1&dl=0)
         -   [Slides](https://www.dropbox.com/scl/fi/9dbpmcefmout7rwrwqvt6/TaxBurdenEnShort.pdf?rlkey=omrpuo36dge0phkd2havhxo5p&dl=0)
-
-## Reproducible research
-
-::: {.callout-note}
-## Revise and Resubmit 
-
-- Balazs, A. Et. Al. (2025) Investigating the analytical robustness of the social and behavioural sciences 2024, **Revise & Resubmit**, *Nature Human Behaviour*.
-
-    -   The Multi100 project is a crowdsourced empirical project involving more than 200 researchers around the world. It aims to estimate how robust published results and conclusions in social and behavioral sciences are to analysts’ analytical choices. 
-    - I replicated the main claims in: 
-      
-      - Behrman, Jere R, Susan W Parker, Petra E Todd, et Kenneth I Wolpin. *Aligning Learning Incentives of Students and Teachers: Results from a Social Experiment in Mexican High Schools*. Journal of Political Economy, 2015, 41.
-      - Angrist, Joshua, et Victor Lavy. *The Effects of High Stakes High School Achievement Awards: Evidence from a Randomized Trial*. American Economic Review 99, nᵒ 4 (1 août 2009): 1384‑1414.
-
-      
-    -   [Pre-registration](https://osf.io/q5h2c/)
-:::
-
 
 ## Education
 
@@ -155,7 +134,7 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 
 -   Heim, A. (2024) [Social investment and the changing face of poverty: essay on the design and evaluation of family and social policies in France](https://hal.science/tel-04801852), PhD Thesis. Paris School of Economics (EHESS), English. ⟨NNT : ⟩. ⟨tel-04801852⟩
 
-## Working papers
+### Working papers
 
 -   Fougère, D. & Heim, A (2019) [L'évaluation socioéconomique de l'investissement social](https://hal.science/hal-03456048v1)
 
