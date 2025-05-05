@@ -58,7 +58,7 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 # }
 ```
 
-## Early childhood care and education
+## Early childhood education and care
 
 ### Pre-prints
 
