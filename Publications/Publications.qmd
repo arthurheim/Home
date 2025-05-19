@@ -90,6 +90,7 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 
         -   [Pre-print and replication material](https://osf.io/qhazf/)
         -   [Pre registration](https://www.socialscienceregistry.org/trials/5930)
+        -   [Slides](https://www.dropbox.com/scl/fi/g7815ngs3mrv2kqb7tjqz/WtW_Slides_052025_EN.pdf?rlkey=rc7vxy07c6eal2b048ayiq5df&dl=0)
 
     -   Press coverage :
 
