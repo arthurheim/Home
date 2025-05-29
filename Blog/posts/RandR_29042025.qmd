@@ -1,0 +1,19 @@
+---
+title: "New research condiditionally accepted at Nature Human Behavior"
+description: "On may 27$^{th}$, I received the best PhD dissertation award from the Cour des comptes"
+author:
+  - name: Arthur Heim
+date: 04-29-2025
+#categories: [Quarto, R, MEDS] # self-defined categories
+#citation: 
+#  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
+image: ../../images/PrixTheseMain_banner.png
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+<!-- ::: callout-tip -->
+
+<!-- ## News ! -->
+
+
+<!-- ::: -->
