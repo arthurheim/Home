@@ -33,6 +33,9 @@ website:
       - href: Teachings/Teachings.qmd
         text: Teachings
         icon: clipboard2-data-fill
+      - href: Blog/index.qmd
+        text: News
+        icon: bi-bookmark-heart-fill
       - href: Publications/Music.qmd
         text: Music
         icon: music-note-beamed  

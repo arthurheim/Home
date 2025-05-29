@@ -1,0 +1,31 @@
+---
+title: "Best PhD Thesis award !"
+description: "On may 27$^{th}$, I received the best PhD dissertation award from the Cour des comptes"
+author:
+  - name: Arthur Heim
+date: 05-29-2025
+#categories: [Quarto, R, MEDS] # self-defined categories
+#citation: 
+#  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
+image: ../../images/PrixTheseMain_banner.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+
+
+<!-- ::: callout-tip -->
+<!-- ## News ! -->
+
+I'm delighted to share that I have been awarded the [2025 Cour des comptes PhD Prize](https://www.ccomptes.fr/fr/actualites/la-cour-des-comptes-decerne-son-prix-de-th) for my thesis titled "Social Investment & the changing face of Poverty: Essays on the Implementation and Evaluation of Social and Family Policies in France."
+
+This award, presented on May 27 at the Palais Cambon by Pierre Moscovici, First President of the Cour des comptes, recognises doctoral research that enhances understanding and innovation in public finance, public management, and policy evaluation.
+
+![](../../images/PrixTheseMain.jpg){fig-align="center"}
+I’m honoured to share this distinction with Nathan Rivet, who was also awarded the PhD Prize for his thesis in Sociology. 
+
+I am honoured that my work has been recognised for its scientific quality, originality, clarity, and potential contribution to the Cour des comptes' mission.
+
+I extend my heartfelt thanks to the jury, my academic mentors, and all those who supported me throughout this journey.
+
+
+<!-- ::: -->
