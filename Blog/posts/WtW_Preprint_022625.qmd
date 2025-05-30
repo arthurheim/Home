@@ -1,0 +1,43 @@
+---
+title: "New Preprint: Experimental Evaluation of a Welfare-to-Work Programme for Single Mothers in France"
+description: "The second chapter of my PhD thesis has been revised and resubmitted to the European Economic Review. Here are the main take-away"
+author:
+  - name: Arthur Heim
+date: 02-26-2025
+#categories: [Quarto, R, MEDS] # self-defined categories
+#citation: 
+#  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
+image: ../../images/WtW_Main.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+I’m pleased to share a new preprint now submitted to the *European Economic Review*:
+**“Welfare-to-What? Experimental Evaluation of an Activation Programme for Single Mothers in Poverty in France.”**
+📄 [Read the paper here](https://osf.io/y8stq)
+
+### What This Paper Is About
+
+This study presents one of the rare randomised evaluations of a welfare-to-work (WtW) programme in Europe and the first of its kind in France. Between 2018 and 2022, we evaluated a highly intensive WtW programme targeting long-term welfare-dependent single mothers in a large urban district.
+
+The evaluation relies on an encouragement design among four cohorts of roughly 400 participants each and extensive matched administrative data on employment, income, and social benefits.
+
+### Key Findings
+
+* **Lock-in effects dominate early on**: Employment and income dropped significantly during the programme (–8pp relative to a 20% baseline).
+* **No long-term employment gains**: After the programme ended, participants were no more likely to be employed or out of poverty than the counterfactual up to 36 months from random assignment.
+* **Cash transfers rose**: Treated households received more in social benefits over time—suggesting either a drop in earned income or larger household sizes.
+* **Selection bias matters**: Standard difference-in-differences models using rich covariates failed to recover experimental estimates. Non-experimental evaluations would have erroneously concluded the programme worked.
+* **No effects during or after COVID**: Treatment effects were consistent across cohorts, with no evidence that the pandemic distorted the findings.
+
+![](../../images/WtW_ITT.png){fig-align="left" width="252"}
+![](../../images/WtW_DID.png){fig-align="right" width="252"}
+
+
+
+### Policy Implications
+
+Despite good intentions and generous resources (≈ €2,800 per participant, 4× the usual), the programme did not help participants find stable employment or exit poverty. If anything, it imposed opportunity costs on already-vulnerable mothers.
+
+These results caution against assuming that intensive WtW programmes will “pay for themselves” through reduced welfare rolls or improved earnings. They also show that caseworkers tend to refer higher-potential individuals, inflating the apparent effectiveness of such programmes when not evaluated with randomisation.
+
+Finally, the findings arrive just as France rolls out a major reform making activation mandatory for all welfare recipients—including single parents. This paper provides an upper bound on what such policies might achieve, and it urges a rethinking of how we define and measure “success” in activation strategies.
