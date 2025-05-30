@@ -7,18 +7,74 @@
     "text": "These slides were used in spring 2023"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to my page",
+    "objectID": "Blog/posts/WtW_Preprint_022625.html",
+    "href": "Blog/posts/WtW_Preprint_022625.html",
+    "title": "New Preprint: Experimental Evaluation of a Welfare-to-Work Programme for Single Mothers in France",
     "section": "",
-    "text": "I am an applied economist working on the design and evaluation of public policies to reduce inequalities and poverty in France. I did my PhD in Economics at Paris School of Economics (EHESS) from 2019 to 2024 at the National family allowance fund (Cnaf).\n I received the 2025 best dissertation award from the Cour des comptes.\n I combine field experiments and microeconometrics to study the effects of active labour market policies for single mothers and how administrative support and information can improve access to early childcare services. I also use market design and implement fair assignment mechanisms for daycare seats in French municipalities.\n I am currently working as project manager in the Research Evaluation and Statistics department (DSER) of the French National family allowance fund (Cnaf).\n\n\n\n\n heimarthur.bsky.social\n heimarthur@gmail.com"
+    "text": "I’m pleased to share a new preprint now submitted to the European Economic Review: “Welfare-to-What? Experimental Evaluation of an Activation Programme for Single Mothers in Poverty in France.” 📄 Read the paper here\n\nWhat This Paper Is About\nThis study presents one of the rare randomised evaluations of a welfare-to-work (WtW) programme in Europe and the first of its kind in France. Between 2018 and 2022, we evaluated a highly intensive WtW programme targeting long-term welfare-dependent single mothers in a large urban district.\nThe evaluation relies on an encouragement design among four cohorts of roughly 400 participants each and extensive matched administrative data on employment, income, and social benefits.\n\n\nKey Findings\n\nLock-in effects dominate early on: Employment and income dropped significantly during the programme (–8pp relative to a 20% baseline).\nNo long-term employment gains: After the programme ended, participants were no more likely to be employed or out of poverty than the counterfactual up to 36 months from random assignment.\nCash transfers rose: Treated households received more in social benefits over time—suggesting either a drop in earned income or larger household sizes.\nSelection bias matters: Standard difference-in-differences models using rich covariates failed to recover experimental estimates. Non-experimental evaluations would have erroneously concluded the programme worked.\nNo effects during or after COVID: Treatment effects were consistent across cohorts, with no evidence that the pandemic distorted the findings.\n\n \n\n\nPolicy Implications\nDespite good intentions and generous resources (≈ €2,800 per participant, 4× the usual), the programme did not help participants find stable employment or exit poverty. If anything, it imposed opportunity costs on already-vulnerable mothers.\nThese results caution against assuming that intensive WtW programmes will “pay for themselves” through reduced welfare rolls or improved earnings. They also show that caseworkers tend to refer higher-potential individuals, inflating the apparent effectiveness of such programmes when not evaluated with randomisation.\nFinally, the findings arrive just as France rolls out a major reform making activation mandatory for all welfare recipients—including single parents. This paper provides an upper bound on what such policies might achieve, and it urges a rethinking of how we define and measure “success” in activation strategies."
   },
   {
-    "objectID": "PhD/PhDPage.html",
-    "href": "PhD/PhDPage.html",
-    "title": "PhD: Analysis and Economic Policy",
+    "objectID": "Blog/posts/CdC_29052025.html",
+    "href": "Blog/posts/CdC_29052025.html",
+    "title": "Best PhD Thesis award !",
     "section": "",
-    "text": "On April 22, 2024 at 5 PM (Paris time), I defended my thesis:\nSocial Investment and the Changing Face of Poverty: Essays on the Design and Evaluation of Social Investment Policies in France.\nJury:\n\nMme Anne BORING, Erasmus University Rotterdam\nM. Rafael LALIVE, Université de Lausanne\nMme Karen MACOURS, INRAE, PSE-Ecole d’économie de Paris\nMme Camille TERRIER, Queen Mary University of London\n\n \nThesis supervisor:\n\nM. Marc GURGAND, CNRS, PSE-Ecole d’économie de Paris\n\n\n\nView PDF\n\n\n\n&lt;p&gt;style=\"width:100%; height:800px;\" frameborder=\"0\"&gt;&lt;/p&gt;\n\n\nOpen PDF in new tab"
+    "text": "I’m delighted to share that I have been awarded the 2025 Cour des comptes PhD Prize for my thesis titled “Social Investment & the changing face of Poverty: Essays on the Implementation and Evaluation of Social and Family Policies in France.”\nThis award, presented on May 27 at the Palais Cambon by Pierre Moscovici, First President of the Cour des comptes, recognises doctoral research that enhances understanding and innovation in public finance, public management, and policy evaluation.\n I’m honoured to share this distinction with Nathan Rivet, who was also awarded the PhD Prize for his thesis in Sociology.\nI am honoured that my work has been recognised for its scientific quality, originality, clarity, and potential contribution to the Cour des comptes’ mission.\nI extend my heartfelt thanks to the jury, my academic mentors, and all those who supported me throughout this journey."
+  },
+  {
+    "objectID": "CVContacts.html",
+    "href": "CVContacts.html",
+    "title": "CV and contact",
+    "section": "",
+    "text": "Download"
+  },
+  {
+    "objectID": "CVContacts.html#english-version",
+    "href": "CVContacts.html#english-version",
+    "title": "CV and contact",
+    "section": "",
+    "text": "Download"
+  },
+  {
+    "objectID": "CVContacts.html#french-version",
+    "href": "CVContacts.html#french-version",
+    "title": "CV and contact",
+    "section": "French version",
+    "text": "French version\nTéléchargement"
+  },
+  {
+    "objectID": "Publications/Publications.html",
+    "href": "Publications/Publications.html",
+    "title": "Research",
+    "section": "",
+    "text": "Conditionally accepted !\n\n\n\n\nCarbuccia, L. Heim, A. Barone, C. & Chevalier, C. (2025) Investigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial, Nature Human Behaviour.\n\n“Multi-arm RCT in the Paris region measuring the effects of providing information and administrative support to pregnant women to access formal childcare. The programme increases social inequalities in access to daycare centres.\n\nPre-print and replication material\nPre-registration\n\n\n\n\n\n\nCombe, J. & Heim, A. (2024) Rage against the Matching: Fairness and inequalities in a market design experiment in France, in Social investment & the changing face of poverty: Essays on the design & Evaluation of family policies in France, PhD Thesis, EHESS, 2024. English.\n\nDefinition and implementation of market design solutions to define assignment mechanisms for the daycare market in a field experiment in France. Analysis of the effect of priority weights and behavioural responses to incentives.\n\nSlides\nChapter"
+  },
+  {
+    "objectID": "Publications/Publications.html#early-childhood-education-and-care",
+    "href": "Publications/Publications.html#early-childhood-education-and-care",
+    "title": "Research",
+    "section": "",
+    "text": "Conditionally accepted !\n\n\n\n\nCarbuccia, L. Heim, A. Barone, C. & Chevalier, C. (2025) Investigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial, Nature Human Behaviour.\n\n“Multi-arm RCT in the Paris region measuring the effects of providing information and administrative support to pregnant women to access formal childcare. The programme increases social inequalities in access to daycare centres.\n\nPre-print and replication material\nPre-registration\n\n\n\n\n\n\nCombe, J. & Heim, A. (2024) Rage against the Matching: Fairness and inequalities in a market design experiment in France, in Social investment & the changing face of poverty: Essays on the design & Evaluation of family policies in France, PhD Thesis, EHESS, 2024. English.\n\nDefinition and implementation of market design solutions to define assignment mechanisms for the daycare market in a field experiment in France. Analysis of the effect of priority weights and behavioural responses to incentives.\n\nSlides\nChapter"
+  },
+  {
+    "objectID": "Publications/Publications.html#active-labour-market-policies",
+    "href": "Publications/Publications.html#active-labour-market-policies",
+    "title": "Research",
+    "section": "Active labour market policies",
+    "text": "Active labour market policies\n\nPre-prints\n\n\n\n\n\n\nNew version !\n\n\n\n\nHeim (2025) Welfare to What ? “Welfare to what ? Experimental evaluation of an activation programme for single mothers in poverty in France”), submitted to European Economic Review.\n\nA Randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. Results show no effect on labour market participation and poverty after the end of the programme but higher social transfers.\n\nPre-print and replication material\nPre registration\nSlides\n\nPress coverage :\n\nMediapart\nAlternatives économiques\n\n\n\n\n\n\nGalitzine, A. & Heim, A. Tax burden on the poor: : Single mothers’ optimisation behaviours following an experimental activation programme in France in Social investment & the changing face of poverty: Essays on the design & Evaluation of family policies in France, PhD Thesis, EHESS, 2024. English.\n\nWe challenge the idea that the French tax-benefit system “make work pay” for single parents and analyse reactions following a randomised intensive welfare-to-work programme. We use instrumental distribution regressions and find strong (negative) intensive margin reactions.\n\nPre-print\nSlides"
+  },
+  {
+    "objectID": "Publications/Publications.html#education",
+    "href": "Publications/Publications.html#education",
+    "title": "Research",
+    "section": "Education",
+    "text": "Education\n\nBook\n\nHeim, A, Steinmetz, C. & Tricot, A. (2015) Faut-il encore redoubler ?, Éditions Canopé.\n\nThis book builds on the Conference of Consensus on grade repetition organised by the National council for the Evaluation of the French schooling system (Cnesco) from 2013 to 2014. It summarised the state of research at that time and the recommendations from the Jury.\n\n\n\n\nWorking papers in French\n\nMons, N., Heim, A., & Blanchard‐Schneider, A. (2015). Lutter contre les difficultés scolaires : Le redoublement et ses alternatives. Dossier de synthèse. Cnesco.\nHeim, A., & Steinmetz, C. (2015). Une comparaison statistique et reglementaire. In Lutter conte la difficulté scolaire: Le redoublement et ses alternatives (Vol. 1). Conseil national d’évaluation du système scolaire (Cnesco).\nHeim, A., & Steinmetz, C. (2015). De l’étude de ses impacts à la croyance en son utilité. In Le redoublement en France et dans le monde (Vol. 2). Conseil national d’évaluation du système scolaire (Cnesco).\nHeim, A., & Steinmetz, C. (2015). Quelles alternatives au redoublement ? In Le redoublement en France et dans le monde (Vol. 3). Conseil national d’évaluation du système scolaire (Cnesco).\nHeim, A., & Galinié, A. (2016). Inégalités scolaires : Quels rôles jouent les cours privés ? In Contribution au rapport du Cnesco: Les inégalités scolaires d’origines sociales et ethnoculturelle. Cnesco.\nHeim, A. & Ni J. (2016) L’éducation peut elle favoriser la croissance ? Note d’analyse, France Stratégie.\nHeim, A. (2018). Quand la scolarisation à 2 ans n’a pas les effets attendus: Des evaluations sur données françaises Document de travail, France Stratégie."
+  },
+  {
+    "objectID": "Publications/Publications.html#social-investment",
+    "href": "Publications/Publications.html#social-investment",
+    "title": "Research",
+    "section": "Social investment",
+    "text": "Social investment\n\nPhD Thesis\n\nHeim, A. (2024) Social investment and the changing face of poverty: essay on the design and evaluation of family and social policies in France, PhD Thesis. Paris School of Economics (EHESS), English. ⟨NNT : ⟩. ⟨tel-04801852⟩\n\n\n\nWorking papers\n\nFougère, D. & Heim, A (2019) L’évaluation socioéconomique de l’investissement social\nFougère, D. & Heim, A (2019) L’investissement social à l’épreuve de l’évaluation socioéconomique Document de travail, France Stratégie - Commissariat général à la stratégie et la prospective. 2019, pp.8. ⟨hal-03474890⟩\nHeim, A. (2017). Comment estimer le rendement de l’investissement social ? Document de Travail France Stratégie, 2017‐02.\nHeim, A. (2017). L’investissement social: quelles significations ? Quelles implications ? Cahier Français, 399, 16–21."
   },
   {
     "objectID": "Publications/Music.html",
@@ -77,73 +133,31 @@
     "text": "Kera : progressive death metal\nKERA was a Parisian progressive death metal band set up in November 2014. The band’s main influences are Textures, Hypno5e, Dream Theater, Opeth, Meshuggah and Gojira. After a first EP in November 2014, a single in February 2016, Kera Released a full album in November 2017.\nHysteresis is a concept album dealing with mental illness and the persistence of emotional traumas. Songs are rather long (5 out of 9 are longer than 7 minutes), and use lots of complex musical theme (modulations and non symmetric metrics). This album is inspired with all Kera’s influences, leading the auditor into its universe, in which violent and effective riff can be heard right after some aerial parts. Textures’ lead guitarist: Joe Tal plays the solo of the new version of Delusion.\n\n\n\n\n\n\nFigure 9: The video “Kera: Delusion”\n\n\n\n\n\n\n\n\n\nFigure 10: The video “Kera: Harbinger of Doom”"
   },
   {
-    "objectID": "Publications/Publications.html",
-    "href": "Publications/Publications.html",
-    "title": "Research",
+    "objectID": "PhD/PhDPage.html",
+    "href": "PhD/PhDPage.html",
+    "title": "PhD: Analysis and Economic Policy",
     "section": "",
-    "text": "Conditionally accepted !\n\n\n\n\nCarbuccia, L. Heim, A. Barone, C. & Chevalier, C. (2025) Investigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial, Nature Human Behaviour.\n\n“Multi-arm RCT in the Paris region measuring the effects of providing information and administrative support to pregnant women to access formal childcare. The programme increases social inequalities in access to daycare centres.\n\nPre-print and replication material\nPre-registration\n\n\n\n\n\n\nCombe, J. & Heim, A. (2024) Rage against the Matching: Fairness and inequalities in a market design experiment in France, in Social investment & the changing face of poverty: Essays on the design & Evaluation of family policies in France, PhD Thesis, EHESS, 2024. English.\n\nDefinition and implementation of market design solutions to define assignment mechanisms for the daycare market in a field experiment in France. Analysis of the effect of priority weights and behavioural responses to incentives.\n\nSlides\nChapter"
+    "text": "On April 22, 2024 at 5 PM (Paris time), I defended my thesis:\nSocial Investment and the Changing Face of Poverty: Essays on the Design and Evaluation of Social Investment Policies in France.\nJury:\n\nMme Anne BORING, Erasmus University Rotterdam\nM. Rafael LALIVE, Université de Lausanne\nMme Karen MACOURS, INRAE, PSE-Ecole d’économie de Paris\nMme Camille TERRIER, Queen Mary University of London\n\n \nThesis supervisor:\n\nM. Marc GURGAND, CNRS, PSE-Ecole d’économie de Paris\n\n\n\nView PDF\n\n\n\n&lt;p&gt;style=\"width:100%; height:800px;\" frameborder=\"0\"&gt;&lt;/p&gt;\n\n\nOpen PDF in new tab"
   },
   {
-    "objectID": "Publications/Publications.html#early-childhood-education-and-care",
-    "href": "Publications/Publications.html#early-childhood-education-and-care",
-    "title": "Research",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my page",
     "section": "",
-    "text": "Conditionally accepted !\n\n\n\n\nCarbuccia, L. Heim, A. Barone, C. & Chevalier, C. (2025) Investigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial, Nature Human Behaviour.\n\n“Multi-arm RCT in the Paris region measuring the effects of providing information and administrative support to pregnant women to access formal childcare. The programme increases social inequalities in access to daycare centres.\n\nPre-print and replication material\nPre-registration\n\n\n\n\n\n\nCombe, J. & Heim, A. (2024) Rage against the Matching: Fairness and inequalities in a market design experiment in France, in Social investment & the changing face of poverty: Essays on the design & Evaluation of family policies in France, PhD Thesis, EHESS, 2024. English.\n\nDefinition and implementation of market design solutions to define assignment mechanisms for the daycare market in a field experiment in France. Analysis of the effect of priority weights and behavioural responses to incentives.\n\nSlides\nChapter"
+    "text": "I am an applied economist working on the design and evaluation of public policies to reduce inequalities and poverty in France. I did my PhD in Economics at Paris School of Economics (EHESS) from 2019 to 2024 at the National family allowance fund (Cnaf).\n I received the 2025 best dissertation award from the Cour des comptes.\n I combine field experiments and microeconometrics to study the effects of active labour market policies for single mothers and how administrative support and information can improve access to early childcare services. I also use market design and implement fair assignment mechanisms for daycare seats in French municipalities.\n I am currently working as project manager in the Research Evaluation and Statistics department (DSER) of the French National family allowance fund (Cnaf).\n\n\n\n\n heimarthur.bsky.social\n heimarthur@gmail.com"
   },
   {
-    "objectID": "Publications/Publications.html#active-labour-market-policies",
-    "href": "Publications/Publications.html#active-labour-market-policies",
-    "title": "Research",
-    "section": "Active labour market policies",
-    "text": "Active labour market policies\n\nPre-prints\n\n\n\n\n\n\nNew version !\n\n\n\n\nHeim (2025) Welfare to What ? “Welfare to what ? Experimental evaluation of an activation programme for single mothers in poverty in France”), submitted to European Economic Review.\n\nA Randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. Results show no effect on labour market participation and poverty after the end of the programme but higher social transfers.\n\nPre-print and replication material\nPre registration\nSlides\n\nPress coverage :\n\nMediapart\nAlternatives économiques\n\n\n\n\n\n\nGalitzine, A. & Heim, A. Tax burden on the poor: : Single mothers’ optimisation behaviours following an experimental activation programme in France in Social investment & the changing face of poverty: Essays on the design & Evaluation of family policies in France, PhD Thesis, EHESS, 2024. English.\n\nWe challenge the idea that the French tax-benefit system “make work pay” for single parents and analyse reactions following a randomised intensive welfare-to-work programme. We use instrumental distribution regressions and find strong (negative) intensive margin reactions.\n\nPre-print\nSlides"
-  },
-  {
-    "objectID": "Publications/Publications.html#education",
-    "href": "Publications/Publications.html#education",
-    "title": "Research",
-    "section": "Education",
-    "text": "Education\n\nBook\n\nHeim, A, Steinmetz, C. & Tricot, A. (2015) Faut-il encore redoubler ?, Éditions Canopé.\n\nThis book builds on the Conference of Consensus on grade repetition organised by the National council for the Evaluation of the French schooling system (Cnesco) from 2013 to 2014. It summarised the state of research at that time and the recommendations from the Jury.\n\n\n\n\nWorking papers in French\n\nMons, N., Heim, A., & Blanchard‐Schneider, A. (2015). Lutter contre les difficultés scolaires : Le redoublement et ses alternatives. Dossier de synthèse. Cnesco.\nHeim, A., & Steinmetz, C. (2015). Une comparaison statistique et reglementaire. In Lutter conte la difficulté scolaire: Le redoublement et ses alternatives (Vol. 1). Conseil national d’évaluation du système scolaire (Cnesco).\nHeim, A., & Steinmetz, C. (2015). De l’étude de ses impacts à la croyance en son utilité. In Le redoublement en France et dans le monde (Vol. 2). Conseil national d’évaluation du système scolaire (Cnesco).\nHeim, A., & Steinmetz, C. (2015). Quelles alternatives au redoublement ? In Le redoublement en France et dans le monde (Vol. 3). Conseil national d’évaluation du système scolaire (Cnesco).\nHeim, A., & Galinié, A. (2016). Inégalités scolaires : Quels rôles jouent les cours privés ? In Contribution au rapport du Cnesco: Les inégalités scolaires d’origines sociales et ethnoculturelle. Cnesco.\nHeim, A. & Ni J. (2016) L’éducation peut elle favoriser la croissance ? Note d’analyse, France Stratégie.\nHeim, A. (2018). Quand la scolarisation à 2 ans n’a pas les effets attendus: Des evaluations sur données françaises Document de travail, France Stratégie."
-  },
-  {
-    "objectID": "Publications/Publications.html#social-investment",
-    "href": "Publications/Publications.html#social-investment",
-    "title": "Research",
-    "section": "Social investment",
-    "text": "Social investment\n\nPhD Thesis\n\nHeim, A. (2024) Social investment and the changing face of poverty: essay on the design and evaluation of family and social policies in France, PhD Thesis. Paris School of Economics (EHESS), English. ⟨NNT : ⟩. ⟨tel-04801852⟩\n\n\n\nWorking papers\n\nFougère, D. & Heim, A (2019) L’évaluation socioéconomique de l’investissement social\nFougère, D. & Heim, A (2019) L’investissement social à l’épreuve de l’évaluation socioéconomique Document de travail, France Stratégie - Commissariat général à la stratégie et la prospective. 2019, pp.8. ⟨hal-03474890⟩\nHeim, A. (2017). Comment estimer le rendement de l’investissement social ? Document de Travail France Stratégie, 2017‐02.\nHeim, A. (2017). L’investissement social: quelles significations ? Quelles implications ? Cahier Français, 399, 16–21."
-  },
-  {
-    "objectID": "CVContacts.html",
-    "href": "CVContacts.html",
-    "title": "CV and contact",
+    "objectID": "Blog/posts/RandR_29042025.html",
+    "href": "Blog/posts/RandR_29042025.html",
+    "title": "New research condiditionally accepted at Nature Human Behavior",
     "section": "",
-    "text": "Download"
-  },
-  {
-    "objectID": "CVContacts.html#english-version",
-    "href": "CVContacts.html#english-version",
-    "title": "CV and contact",
-    "section": "",
-    "text": "Download"
-  },
-  {
-    "objectID": "CVContacts.html#french-version",
-    "href": "CVContacts.html#french-version",
-    "title": "CV and contact",
-    "section": "French version",
-    "text": "French version\nTéléchargement"
-  },
-  {
-    "objectID": "Blog/posts/CdC_29052025.html",
-    "href": "Blog/posts/CdC_29052025.html",
-    "title": "Best PhD Thesis award !",
-    "section": "",
-    "text": "I’m delighted to share that I have been awarded the 2025 Cour des comptes PhD Prize for my thesis titled “Social Investment & the changing face of Poverty: Essays on the Implementation and Evaluation of Social and Family Policies in France.”\nThis award, presented on May 27 at the Palais Cambon by Pierre Moscovici, First President of the Cour des comptes, recognises doctoral research that enhances understanding and innovation in public finance, public management, and policy evaluation.\n I’m honoured to share this distinction with Nathan Rivet, who was also awarded the PhD Prize for his thesis in Sociology.\nI am honoured that my work has been recognised for its scientific quality, originality, clarity, and potential contribution to the Cour des comptes’ mission.\nI extend my heartfelt thanks to the jury, my academic mentors, and all those who supported me throughout this journey."
+    "text": "We are thrilled to announce that our paper, Investigating how administrative burden and information costs affect social inequalities in early childcare access, has been accepted for publication in Nature Human Behaviour.\n\nBackground\nWhile high-quality early childcare yields the greatest benefits for low-income and immigrant families, these groups remain systematically under-represented in formal childcare settings—even in France, where childcare is comparatively affordable and widely available. This gap persists despite strong parental intentions to use such services.\nOur study investigates whether cognitive and behavioural barriers—rather than cost or availability—contribute to this “intention-to-application” gap.\n\n\nStudy Design\nWe conducted a randomized controlled trial (RCT) with 1,849 pregnant women in the Paris region. Participants were randomly assigned to one of three groups:\n\nControl group: Received unrelated information (e.g., maternal health).\nInformation-only group: Received videos and reminders about early childcare options, costs, and how to apply.\nInformation + support group: Received the same materials plus personalised phone-based assistance with the application process.\n\nOur main outcomes were application and access to any formal early childcare, as well as to daycare centres specifically.\n\n\nKey Findings\n\nInformation alone did not increase application or access rates.\nPersonalized support increased application rates, particularly among low-SES and immigrant households.\n\nAmong compliers, the intervention nearly closed the application gap by SES and migration background.\n\nAccess rates, however, remained largely unchanged, except for a few subgroups (e.g., high-SES, dual-earner families).\nDaycare-specific access increased for high-SES mothers only, suggesting persistent structural allocation biases.\n\nWe also found that the support intervention had larger effects among:\n\nMothers with low prior knowledge of the childcare system,\nFamilies with no prior experience using early childcare,\nMothers who were inactive in the labour market,\nAnd those with present-oriented preferences or low trust in the childcare system.\n\n\n\nPolicy Implications\nOur findings point to a dual challenge:\n\nCognitive and behavioural barriers, such as low procedural knowledge, choice overload, and psychological costs, can be addressed with low-touch, scalable interventions.\nBut structural barriers, such as opaque prioritization criteria, discretionary selection, and potential discrimination, persist even after application barriers are removed.\n\nFor equitable access to early childcare, information and support are necessary—but not sufficient. Policy makers should complement behavioural tools with reforms to slot allocation rules, priority criteria transparency, and local supply equity. Without tackling both layers, inequalities in access will remain entrenched.\n\n📄 Read the full paper: https://osf.io/preprints/osf/w2ey7_v4"
   },
   {
     "objectID": "Blog/index.html",
     "href": "Blog/index.html",
     "title": "News",
     "section": "",
-    "text": "Best PhD Thesis award !\n\n\nOn may 27\\(^{th}\\), I received the best PhD dissertation award from the Cour des comptes\n\n\n\nArthur Heim\n\n\nMay 29, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Best PhD Thesis award !\n\n\n\n\n\nOn may 27\\(^{th}\\), I received the best PhD dissertation award from the Cour des comptes\n\n\n\n\n\nMay 29, 2025\n\n\nArthur Heim\n\n\n\n\n\n\n\n\n\n\n\n\nNew research condiditionally accepted at Nature Human Behavior\n\n\n\n\n\nThis paper, co-authored with Laudine Carbuccia, Coralie Chevallier, and Carlo Barone, uses a three-arm randomized controlled trial to test interventions aimed at increasing applications to formal childcare in France. We uncover the cognitive, procedural, and structural barriers that contribute to persistent inequalities in access. Here’s what we found.\n\n\n\n\n\nApr 29, 2025\n\n\nArthur Heim\n\n\n\n\n\n\n\n\n\n\n\n\nNew Preprint: Experimental Evaluation of a Welfare-to-Work Programme for Single Mothers in France\n\n\n\n\n\nThe second chapter of my PhD thesis has been revised and resubmitted to the European Economic Review. Here are the main take-away\n\n\n\n\n\nFeb 26, 2025\n\n\nArthur Heim\n\n\n\n\n\n\nNo matching items"
   }
 ]
