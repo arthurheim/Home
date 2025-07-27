@@ -1,7 +1,7 @@
 ---
 title: "New research condiditionally accepted at Nature Human Behavior"
-description: "This paper, co-authored with Laudine Carbuccia, Coralie Chevallier, and Carlo Barone, uses a three-arm randomized controlled trial to test interventions aimed at increasing applications to formal childcare in France. 
-We uncover the cognitive, procedural, and structural barriers that contribute to persistent inequalities in access."
+description: |
+  This paper, co-authored with Laudine Carbuccia, Coralie Chevallier, and Carlo Barone, uses a three-arm randomized controlled trial to test interventions aimed at increasing applications to formal childcare in France. We uncover the cognitive, procedural, and structural barriers that contribute to persistent inequalities in access.
 author:
   - name: Arthur Heim
 date: 04-29-2025
@@ -14,6 +14,8 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 
 We are thrilled to announce that our paper, *Investigating how administrative burden and information costs affect social inequalities in early childcare access*, has now been accepted for publication in *Nature Human Behaviour*.
+
+This research is part of [Laudine Carbuccia](https://sites.google.com/view/laudinecarbuccia)'s PhD dissertation and she did an outstanding work building and managing the project from design, fund raising, hirings, data collection, programme implementation and analyses.  
 
 
 ### Background
@@ -35,6 +37,10 @@ Our main outcomes were application and access to any formal early childcare, as 
 ### Key Findings
 
 * **Information alone did not increase application or access rates.** We find no average or conditional effects of this treatment arm on any outcome.
+* **Offering personalised support increased the average application and access rates to daycare.** However, it did not change the overall application and access rates for any formal childcare
+
+![Stacked OLS regressions with block-wave fixed effects estimating the main intention-to-treat effects of the treatments](../../images/NHB_Table2.png){fig-align="center" width="252"}
+
 * **Personalized support increased application rates**, particularly among low-SES and immigrant households.
 
   * Among compliers, the intervention nearly **closed the application gap** by SES and migration background.
