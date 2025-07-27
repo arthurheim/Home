@@ -26,13 +26,13 @@ The evaluation relies on an encouragement design among four cohorts of roughly 4
 * **Lock-in effects dominate early on**: Employment and income dropped significantly during the programme (–8pp relative to a 20% baseline).
 * **No long-term employment gains**: After the programme ended, participants were no more likely to be employed or out of poverty than the counterfactual up to 36 months from random assignment.
 
-![Stacked OLS regressions with bloc-cohort-period fixed effects estimating average employment rates by treatment arms and intention-to-treat effects](../../images/WtW_ITT.png){fig-align="left" width="252"}
+![Stacked OLS regressions with bloc-cohort-period fixed effects estimating average employment rates by treatment arms and intention-to-treat effects](../../images/WtW_ITT.png){fig-align="left" width="452"}
 
 * **Cash transfers rose**: Treated households received more in social benefits over time—suggesting either a drop in earned income or larger household sizes.
 * **No effects during or after COVID**: While the pandemic affected the overall labour market outcome dynamics, treatment effects were consistent across cohorts, with no evidence that the pandemic distorted the findings.
 * **Selection bias matters**: Modern 'as treated' difference-in-differences models using rich covariates failed to recover experimental estimates. Non-experimental evaluations would have erroneously concluded the programme worked.
 
-![As treated average employment rates and difference in differences with different comparison groups and covariates](../../images/WtW_DID.png){fig-align="right" width="252"}
+![As treated average employment rates and difference in differences with different comparison groups and covariates](../../images/WtW_DID.png){fig-align="right" width="452"}
 
 ### Policy Implications
 

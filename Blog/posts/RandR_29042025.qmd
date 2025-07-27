@@ -4,7 +4,7 @@ description: |
   This paper, co-authored with Laudine Carbuccia, Coralie Chevallier, and Carlo Barone, uses a three-arm randomized controlled trial to test interventions aimed at increasing applications to formal childcare in France. We uncover the cognitive, procedural, and structural barriers that contribute to persistent inequalities in access.
 author:
   - name: Arthur Heim
-date: 04-29-2025
+date: 07-27-2025
 #categories: [Quarto, R, MEDS] # self-defined categories
 #citation: 
 #  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
@@ -39,7 +39,7 @@ Our main outcomes were application and access to any formal early childcare, as 
 * **Information alone did not increase application or access rates.** We find no average or conditional effects of this treatment arm on any outcome.
 * **Offering personalised support increased the average application and access rates to daycare.** However, it did not change the overall application and access rates for any formal childcare
 
-![Stacked OLS regressions with block-wave fixed effects estimating the main intention-to-treat effects of the treatments](../../images/NHB_Table2.png){fig-align="center" width="252"}
+![Stacked OLS regressions with block-wave fixed effects estimating the main intention-to-treat effects of the treatments](../../images/NHB_Table2.png){fig-align="center" width="452"}
 
 * **Personalized support increased application rates**, particularly among low-SES and immigrant households.
 
