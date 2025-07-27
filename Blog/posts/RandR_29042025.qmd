@@ -1,7 +1,7 @@
 ---
 title: "New research condiditionally accepted at Nature Human Behavior"
 description: "This paper, co-authored with Laudine Carbuccia, Coralie Chevallier, and Carlo Barone, uses a three-arm randomized controlled trial to test interventions aimed at increasing applications to formal childcare in France. 
-We uncover the cognitive, procedural, and structural barriers that contribute to persistent inequalities in access. Here’s what we found."
+We uncover the cognitive, procedural, and structural barriers that contribute to persistent inequalities in access."
 author:
   - name: Arthur Heim
 date: 04-29-2025
@@ -13,28 +13,28 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 ---
 
 
-We are thrilled to announce that our paper, *Investigating how administrative burden and information costs affect social inequalities in early childcare access*, has been accepted for publication in *Nature Human Behaviour*.
+We are thrilled to announce that our paper, *Investigating how administrative burden and information costs affect social inequalities in early childcare access*, has now been accepted for publication in *Nature Human Behaviour*.
 
 
 ### Background
 
-While high-quality early childcare yields the greatest benefits for low-income and immigrant families, these groups remain systematically under-represented in formal childcare settings—even in France, where childcare is comparatively affordable and widely available. This gap persists despite strong parental intentions to use such services.
+While high-quality early childcare yields the greatest benefits for low-income and immigrant families, these groups remain systematically under-represented in formal childcare settings — even in France, where childcare is comparatively affordable and widely available. This gap persists despite strong parental intentions to use such services.
 
-Our study investigates whether *cognitive and behavioural barriers*—rather than cost or availability—contribute to this “intention-to-application” gap.
+Our study investigates whether *cognitive and behavioural barriers* — rather than cost or availability — contribute to this “intention-to-application” gap.
 
 ### Study Design
 
 We conducted a randomized controlled trial (RCT) with 1,849 pregnant women in the Paris region. Participants were randomly assigned to one of three groups:
 
 1. **Control group**: Received unrelated information (e.g., maternal health).
-2. **Information-only group**: Received videos and reminders about early childcare options, costs, and how to apply.
+2. **Information-only group**: Received text messages with access to videos and reminders about early childcare options, costs, and how to apply.
 3. **Information + support group**: Received the same materials plus personalised phone-based assistance with the application process.
 
 Our main outcomes were application and access to any formal early childcare, as well as to daycare centres specifically.
 
 ### Key Findings
 
-* **Information alone did not increase application or access rates.**
+* **Information alone did not increase application or access rates.** We find no average or conditional effects of this treatment arm on any outcome.
 * **Personalized support increased application rates**, particularly among low-SES and immigrant households.
 
   * Among compliers, the intervention nearly **closed the application gap** by SES and migration background.
@@ -52,8 +52,8 @@ We also found that the support intervention had larger effects among:
 
 Our findings point to a dual challenge:
 
-* **Cognitive and behavioural barriers**, such as low procedural knowledge, choice overload, and psychological costs, *can be addressed* with low-touch, scalable interventions.
-* But **structural barriers**, such as opaque prioritization criteria, discretionary selection, and potential discrimination, *persist even after application barriers are removed*.
+* **Cognitive and behavioural barriers**, such as low procedural knowledge, choice overload, and psychological costs, *can be addressed* with  scalable interventions.
+* But **structural barriers**, such as opaque prioritization criteria, discretionary selection, and potential discrimination, *persist even after application barriers are lowered*.
 
 For equitable access to early childcare, information and support are necessary—but not sufficient. Policy makers should complement behavioural tools with reforms to **slot allocation rules**, **priority criteria transparency**, and **local supply equity**. Without tackling both layers, inequalities in access will remain entrenched.
 

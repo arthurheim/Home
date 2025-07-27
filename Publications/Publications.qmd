@@ -63,10 +63,10 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 ### Pre-prints
 
 ::: {.callout-tip}
-## Conditionally accepted !
--   Carbuccia, L. Heim, A. Barone, C. & Chevalier, C. (2025) [Investigating how administrative burden and search costs affect social inequalities in early childcare access, a randomised controled trial](https://osf.io/rh7eb/?view_only=ef7409ac646544eaac946374de134892), *Nature Human Behaviour*.
+## Forthcoming in *Nature Human Behaviour*
+-   Carbuccia, L. ; Heim, A. ; Barone, C. & Chevallier, C. (2025) [A randomised controlled trial on the effect of administrative burden and information costs on social inequalities in early childcare access in France](https://osf.io/rh7eb/?view_only=ef7409ac646544eaac946374de134892)
 
-    -   "Multi-arm RCT in the Paris region measuring the effects of providing information and administrative support to pregnant women to access formal childcare. The programme increases social inequalities in access to daycare centres.
+    -   "Multi-arm RCT in the Paris region measuring the effects of providing information and administrative support to pregnant women to access formal childcare. While increasing registration to formal childcare for low SES households, only high-SES households have higher access to daycare centres.
 
         -   [Pre-print and replication material](https://osf.io/rh7eb/?view_only=ef7409ac646544eaac946374de134892)
         -   [Pre-registration](https://www.socialscienceregistry.org/trials/9901)
@@ -84,7 +84,7 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 
 ::: {.callout-tip}
 ## New version !
--   Heim (2025) [Welfare to What ?](https://osf.io/y8stq) "Welfare to what ? Experimental evaluation of an activation programme for single mothers in poverty in France"), submitted to *European Economic Review*.
+-   Heim (2025) "[Welfare to What ?](https://osf.io/y8stq) Experimental evaluation of an activation programme for single mothers in poverty in France".
 
     -   A Randomised experiment of an intensive welfare-to-work programme targetting single parents on long-term welfare in France. Results show no effect on labour market participation and poverty after the end of the programme but higher social transfers.
 
