@@ -162,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#what-this-paper-is-about" id="toc-what-this-paper-is-about" class="nav-link active" data-scroll-target="#what-this-paper-is-about">What This Paper Is About</a></li>
+  <li><a href="#what-this-paper-is-about" id="toc-what-this-paper-is-about" class="nav-link active" data-scroll-target="#what-this-paper-is-about">What This Paper Is About ?</a></li>
   <li><a href="#key-findings" id="toc-key-findings" class="nav-link" data-scroll-target="#key-findings">Key Findings</a></li>
   <li><a href="#policy-implications" id="toc-policy-implications" class="nav-link" data-scroll-target="#policy-implications">Policy Implications</a></li>
   </ul>
@@ -207,9 +207,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I’m pleased to share a new preprint now submitted to the <em>European Economic Review</em>: <strong>“Welfare-to-What? Experimental Evaluation of an Activation Programme for Single Mothers in Poverty in France.”</strong> 📄 <a href="https://osf.io/y8stq">Read the paper here</a></p>
+<p>I’m pleased to share a new preprint: <strong>“Welfare-to-What? Experimental Evaluation of an Activation Programme for Single Mothers in Poverty in France.”</strong> 📄 <a href="https://osf.io/y8stq">Read the paper here</a></p>
 <section id="what-this-paper-is-about" class="level3">
-<h3 class="anchored" data-anchor-id="what-this-paper-is-about">What This Paper Is About</h3>
+<h3 class="anchored" data-anchor-id="what-this-paper-is-about">What This Paper Is About ?</h3>
 <p>This study presents one of the rare randomised evaluations of a welfare-to-work (WtW) programme in Europe and the first of its kind in France. Between 2018 and 2022, we evaluated a highly intensive WtW programme targeting long-term welfare-dependent single mothers in a large urban district.</p>
 <p>The evaluation relies on an encouragement design among four cohorts of roughly 400 participants each and extensive matched administrative data on employment, income, and social benefits.</p>
 </section>
@@ -218,11 +218,24 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><strong>Lock-in effects dominate early on</strong>: Employment and income dropped significantly during the programme (–8pp relative to a 20% baseline).</li>
 <li><strong>No long-term employment gains</strong>: After the programme ended, participants were no more likely to be employed or out of poverty than the counterfactual up to 36 months from random assignment.</li>
-<li><strong>Cash transfers rose</strong>: Treated households received more in social benefits over time—suggesting either a drop in earned income or larger household sizes.</li>
-<li><strong>Selection bias matters</strong>: Standard difference-in-differences models using rich covariates failed to recover experimental estimates. Non-experimental evaluations would have erroneously concluded the programme worked.</li>
-<li><strong>No effects during or after COVID</strong>: Treatment effects were consistent across cohorts, with no evidence that the pandemic distorted the findings.</li>
 </ul>
-<p><img src="../../images/WtW_ITT.png" class="img-fluid quarto-figure quarto-figure-left" width="252"> <img src="../../images/WtW_DID.png" class="img-fluid quarto-figure quarto-figure-right" width="252"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="../../images/WtW_ITT.png" class="img-fluid figure-img" width="252"></p>
+<figcaption>Stacked OLS regressions with bloc-cohort-period fixed effects estimating average employment rates by treatment arms and intention-to-treat effects</figcaption>
+</figure>
+</div>
+<ul>
+<li><strong>Cash transfers rose</strong>: Treated households received more in social benefits over time—suggesting either a drop in earned income or larger household sizes.</li>
+<li><strong>No effects during or after COVID</strong>: While the pandemic affected the overall labour market outcome dynamics, treatment effects were consistent across cohorts, with no evidence that the pandemic distorted the findings.</li>
+<li><strong>Selection bias matters</strong>: Modern ‘as treated’ difference-in-differences models using rich covariates failed to recover experimental estimates. Non-experimental evaluations would have erroneously concluded the programme worked.</li>
+</ul>
+<div class="quarto-figure quarto-figure-right">
+<figure class="figure">
+<p><img src="../../images/WtW_DID.png" class="img-fluid figure-img" width="252"></p>
+<figcaption>As treated average employment rates and difference in differences with different comparison groups and covariates</figcaption>
+</figure>
+</div>
 </section>
 <section id="policy-implications" class="level3">
 <h3 class="anchored" data-anchor-id="policy-implications">Policy Implications</h3>
