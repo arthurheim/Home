@@ -1,5 +1,5 @@
 ---
-title: "New research condiditionally accepted at Nature Human Behavior"
+title: "New research accepted at Nature Human Behavior"
 description: |
   This paper, co-authored with Laudine Carbuccia, Coralie Chevallier, and Carlo Barone, uses a three-arm randomized controlled trial to test interventions aimed at increasing applications to formal childcare in France. We uncover the cognitive, procedural, and structural barriers that contribute to persistent inequalities in access.
 author:
@@ -7,7 +7,7 @@ author:
 date: 07-27-2025
 #categories: [Quarto, R, MEDS] # self-defined categories
 #citation: 
-#  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
+ # url: https://osf.io/preprints/osf/w2ey7_v5
 image: ../../images/NhB_Main.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
@@ -65,5 +65,5 @@ For equitable access to early childcare, information and support are necessary�
 
 ---
 
-📄 **Read the full paper**: [https://osf.io/preprints/osf/w2ey7\_v4](https://osf.io/preprints/osf/w2ey7_v4)
+📄 **Read the full paper**: [osf.io/preprints/osf/w2ey7_v5](https://osf.io/preprints/osf/w2ey7_v5)
 
