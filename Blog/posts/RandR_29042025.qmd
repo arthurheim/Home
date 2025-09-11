@@ -1,10 +1,10 @@
 ---
-title: "New research accepted at Nature Human Behavior"
+title: "New paper published in Nature Human Behavior"
 description: |
   This paper, co-authored with Laudine Carbuccia, Coralie Chevallier, and Carlo Barone, uses a three-arm randomized controlled trial to test interventions aimed at increasing applications to formal childcare in France. We uncover the cognitive, procedural, and structural barriers that contribute to persistent inequalities in access.
 author:
   - name: Arthur Heim
-date: 07-27-2025
+date: 09-11-2025
 #categories: [Quarto, R, MEDS] # self-defined categories
 #citation: 
  # url: https://osf.io/preprints/osf/w2ey7_v5
@@ -13,7 +13,7 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 ---
 
 
-We are thrilled to announce that our paper, *Investigating how administrative burden and information costs affect social inequalities in early childcare access*, has now been accepted for publication in *Nature Human Behaviour*.
+We are thrilled to announce that our paper, *Investigating how administrative burden and information costs affect social inequalities in early childcare access*, has been published in [*Nature Human Behaviour*](https://www.nature.com/articles/s41562-025-02293-4)
 
 This research is part of [Laudine Carbuccia](https://sites.google.com/view/laudinecarbuccia)'s PhD dissertation and she did an outstanding work building and managing the project from design, fund raising, hirings, data collection, programme implementation and analyses.  
 
@@ -65,5 +65,8 @@ For equitable access to early childcare, information and support are necessary�
 
 ---
 
-📄 **Read the full paper**: [osf.io/preprints/osf/w2ey7_v5](https://osf.io/preprints/osf/w2ey7_v5)
+- 📄 DOI: [https://doi.org/10.1038/s41562-025-02293-4](https://doi.org/10.1038/s41562-025-02293-4)
+- 📄 **Nature human behaviour**: [https://www.nature.com/articles/s41562-025-02293-4](https://www.nature.com/articles/s41562-025-02293-4)
+- 📄 **View-only published version**: [https://rdcu.be/eFAEA](https://rdcu.be/eFAEA)
+- 📄 **Preprint**: [osf.io/preprints/osf/w2ey7_v5](https://osf.io/preprints/osf/w2ey7_v5)
 

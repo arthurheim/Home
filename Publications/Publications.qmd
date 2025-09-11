@@ -60,17 +60,19 @@ bib <- ReadBib(temp_file, check = FALSE) %>% as.tibble() #%>% distinct(title,.ke
 
 ## Early childhood education and care
 
-### Pre-prints
-
 ::: {.callout-tip}
-## Forthcoming in *Nature Human Behaviour*
--   Carbuccia, L. ; Heim, A. ; Barone, C. & Chevallier, C. (2025) [A randomised controlled trial on the effect of administrative burden and information costs on social inequalities in early childcare access in France](https://osf.io/preprints/osf/w2ey7_v5)
+## New paper in *Nature Human Behaviour*
+-   Carbuccia, L. ; Heim, A. ; Barone, C. & Chevallier, C. (2025) [A randomised controlled trial on the effect of administrative burden and information costs on social inequalities in early childcare access in France](https://www.nature.com/articles/s41562-025-02293-4)
 
     -   "Multi-arm RCT in the Paris region measuring the effects of providing information and administrative support to pregnant women to access formal childcare. While increasing registration to formal childcare for low SES households, only high-SES households have higher access to daycare centres.
 
+        -   [View-only published version](https://rdcu.be/eFAEA)
         -   [Pre-print and replication material](https://osf.io/preprints/osf/w2ey7_v5)
         -   [Pre-registration](https://www.socialscienceregistry.org/trials/9901)
+        -   [Blog post](https://arthurheim.github.io/Home/Blog/posts/RandR_29042025.html)
 :::
+
+### Pre-prints
 
 -   Combe, J. & Heim, A. (2024) [Rage against the Matching: Fairness and inequalities in a market design experiment in France](https://www.dropbox.com/scl/fi/7r9c1lglfu04naqnbad4c/CombeHeim2024.pdf?rlkey=44rkwhus5nwj9kjq0gn0l4w9b&dl=0 "Rage against the Matching: Fairness and inequalities in a market design experiment in France"), in *Social investment & the changing face of poverty: Essays on the design & Evaluation of family policies in France*, PhD Thesis, EHESS, 2024. English.
 
